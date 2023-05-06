@@ -1,0 +1,47 @@
+{:blocks (
+{:block/content "id:: 643f6239-963b-422b-b822-fde48eca0c79\n```\nhi，我想让你帮我完成一些任务：你的任务是根据书籍名，提供书籍一定会有的标签，且标签一定要精简全面\n除此之外，你必须提供给我标签的中文名和英文名（即“解剖学”与“Anatomy”）\n标签名不应该有作者原名，书籍原名\n我主要是将标签用于 Zotero，因此标签还因具有联动性，同时你还因告诉我这本书的种类是什么，不过关于种类标签只要有一个就好了，例如 小说（Novel）\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643f622a-709b-4564-9347-e2e5b0653579"}
+:block/parent 
+{:block/uuid #uuid "643f622a-709b-4564-9347-e2e5b0653579"}
+:block/properties 
+{:id "643f6239-963b-422b-b822-fde48eca0c79"}
+:block/uuid #uuid "643f6239-963b-422b-b822-fde48eca0c79"} 
+{:block/created-at 1682039603559
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "643f6239-963b-422b-b822-fde48eca0c79"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [465.01258405854423 205.65821857693822]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a895edc0-de63-11ed-be6b-0551491cc060"
+:noFill false
+:point [720.166748046875 573.5]
+:parentId "643f622a-709b-4564-9347-e2e5b0653579"
+:collapsedHeight 0
+:nonce 1681875513061}}
+:block/updated-at 1682039603559})
+:pages (
+{:block/uuid #uuid "643f622a-709b-4564-9347-e2e5b0653579"
+:block/properties 
+{:id "643f6239-963b-422b-b822-fde48eca0c79"}
+:block/updated-at 1682043281804
+:block/created-at 1681875498938
+:block/type "whiteboard"
+:block/name "2023年4月19号"
+:block/original-name "2023年4月19号"})}

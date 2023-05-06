@@ -1,0 +1,46 @@
+{:blocks (
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 0
+:scale [1 1]
+:type "iframe"
+:size [822.5703125 23542.176208496094]
+:id "96c49990-e465-11ed-8b67-e5670d558417"
+:url "https://mp.weixin.qq.com/s/WvT0ge-p4TmmlESUyWsIxw"
+:point [196.02001953125 470.02392578125]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:nonce 1682509934271}}
+:block/updated-at 1682536049066} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 1
+:scale [1 1]
+:type "iframe"
+:size [853.7287097246744 48795.02133382641]
+:id "96c49991-e465-11ed-8b67-e5670d558417"
+:url "https://mp.weixin.qq.com/s/sgNCzFthkLbLS2zuwgNDcw"
+:point [1554.623358755116 470.02392578125]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:nonce 1682509942925}}
+:block/updated-at 1682536049066})
+:pages (
+{:block/uuid #uuid "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:name "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("96c49990-e465-11ed-8b67-e5670d558417" "96c49991-e465-11ed-8b67-e5670d558417")}}
+:block/updated-at 1682536049066
+:block/created-at 1682536047117
+:block/type "whiteboard"
+:block/name "2023年4月27号"
+:block/original-name "2023年4月27号"})}

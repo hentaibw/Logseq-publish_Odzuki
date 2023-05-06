@@ -1,0 +1,149 @@
+{:blocks (
+{:block/created-at 1683222552790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:id "b59748b0-e4a9-11ed-963c-51dddf5beff9"
+:noFill true
+:point [3435.7577729545083 14127.396980117246]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:nonce 1682565306557
+:isComplete true}}
+:block/updated-at 1683222552790} 
+{:block/created-at 1683222552790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:id "f78f19f0-e4a9-11ed-963c-51dddf5beff9"
+:noFill true
+:point [3248.064957641159 14120.408417844943]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:nonce 1682565417232
+:isComplete false}}
+:block/updated-at 1683222552790} 
+{:block/created-at 1683222552790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:id "b5915540-e4a9-11ed-963c-51dddf5beff9"
+:noFill true
+:point [3435.6 14127.63]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:nonce 1682565306517
+:isComplete false}}
+:block/updated-at 1683222552790} 
+{:block/created-at 1683222552790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 1
+:scale [1 1]
+:type "iframe"
+:size [853.7287097246744 48795.02133382641]
+:id "96c49991-e465-11ed-8b67-e5670d558417"
+:url "https://mp.weixin.qq.com/s/sgNCzFthkLbLS2zuwgNDcw"
+:isLocked true
+:point [1554.623358755116 470.02392578125]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:nonce 1682509942926}}
+:block/updated-at 1683222552790} 
+{:block/created-at 1683222552790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 0
+:scale [1 1]
+:type "iframe"
+:size [822.5703125 23542.176208496094]
+:id "96c49990-e465-11ed-8b67-e5670d558417"
+:url "https://mp.weixin.qq.com/s/WvT0ge-p4TmmlESUyWsIxw"
+:isLocked true
+:point [196.02001953125 470.02392578125]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:nonce 1682509934274}}
+:block/updated-at 1683222552790} 
+{:block/content "![Boxcutter操作流程与技巧.jpg](file://D:\\Odzuki_File\\Project\\Blender自学基础教程2.0\\Assets\\6.物体的加减——布尔运算-2\\Boxcutter操作流程与技巧.jpg)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"}
+:block/parent 
+{:block/uuid #uuid "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"}
+:block/uuid #uuid "644bff48-6d0a-4c32-90b1-9901c31fa875"} 
+{:block/created-at 1683222552790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "644bff48-6d0a-4c32-90b1-9901c31fa875"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [1322.5767005053206 54.981412737585885]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5466ccb0-e5e8-11ed-a4bb-a117bd9d44d2"
+:noFill false
+:isLocked true
+:point [-1172.8496494017668 5493.575327324076]
+:parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:collapsedHeight 0
+:nonce 1682702153444}}
+:block/updated-at 1683222552790})
+:pages (
+{:block/uuid #uuid "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
+:name "2023年4月29号"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("96c49990-e465-11ed-8b67-e5670d558417" "96c49991-e465-11ed-8b67-e5670d558417" "b5915540-e4a9-11ed-963c-51dddf5beff9" "b59748b0-e4a9-11ed-963c-51dddf5beff9" "f78f19f0-e4a9-11ed-963c-51dddf5beff9" "5466ccb0-e5e8-11ed-a4bb-a117bd9d44d2")}}
+:block/updated-at 1683222552790
+:block/created-at 1682536047117
+:block/type "whiteboard"
+:block/name "2023年4月29号"
+:block/original-name "2023年4月29号"})}

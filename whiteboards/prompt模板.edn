@@ -1,0 +1,126 @@
+{:blocks (
+{:block/content "{{embed ((643d1834-7fec-4ee5-a888-8fc85261558b))}}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ffd35-89f6-419e-817f-955877f1271e"}
+:block/parent 
+{:block/uuid #uuid "643ffd35-89f6-419e-817f-955877f1271e"}
+:block/uuid #uuid "643ffd6e-dbe4-4851-97c8-1ae37edd83d9"} 
+{:block/created-at 1682043438134
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "643ffd6e-dbe4-4851-97c8-1ae37edd83d9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing false
+:type "logseq-portal"
+:size [606 773]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2a92bc20-dec0-11ed-be6b-0551491cc060"
+:noFill false
+:point [364.8333740234375 267.5]
+:parentId "643ffd35-89f6-419e-817f-955877f1271e"
+:collapsedHeight 0
+:nonce 1681915244893}}
+:block/updated-at 1682043438134} 
+{:block/content "{{embed ((643e9e29-ab04-4f38-a9a8-3431b56b3a49))}}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ffd6e-dbe4-4851-97c8-1ae37edd83d9"}
+:block/parent 
+{:block/uuid #uuid "643ffd35-89f6-419e-817f-955877f1271e"}
+:block/properties 
+{}
+:block/uuid #uuid "643ffd78-ea2e-4c10-b071-97cbd1331b7a"} 
+{:block/created-at 1682043438135
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "643ffd78-ea2e-4c10-b071-97cbd1331b7a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing false
+:type "logseq-portal"
+:size [1069.5335767737292 1042.7686773002729]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3115e900-dec0-11ed-be6b-0551491cc060"
+:noFill false
+:point [1017.6707884634336 271.6436132055445]
+:parentId "643ffd35-89f6-419e-817f-955877f1271e"
+:collapsedHeight 0
+:nonce 1681915256144}}
+:block/updated-at 1682043438135} 
+{:block/content "{{embed ((643f6239-963b-422b-b822-fde48eca0c79))}}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ffd78-ea2e-4c10-b071-97cbd1331b7a"}
+:block/parent 
+{:block/uuid #uuid "643ffd35-89f6-419e-817f-955877f1271e"}
+:block/properties 
+{}
+:block/uuid #uuid "643ffda5-8849-4b98-bd42-b15839f04420"} 
+{:block/created-at 1682043438135
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "643ffda5-8849-4b98-bd42-b15839f04420"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 274.0000513377749]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4b004770-dec0-11ed-be6b-0551491cc060"
+:noFill false
+:point [2112.3170995875143 269.18655213185156]
+:parentId "643ffd35-89f6-419e-817f-955877f1271e"
+:collapsedHeight 0
+:nonce 1681915299580}}
+:block/updated-at 1682043438135})
+:pages (
+{:block/uuid #uuid "643ffd35-89f6-419e-817f-955877f1271e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "643ffd35-89f6-419e-817f-955877f1271e"
+:name "prompt模板"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("2a92bc20-dec0-11ed-be6b-0551491cc060" "3115e900-dec0-11ed-be6b-0551491cc060" "4b004770-dec0-11ed-be6b-0551491cc060")}}
+:block/updated-at 1682043438134
+:block/created-at 1681915189365
+:block/type "whiteboard"
+:block/name "prompt模板"
+:block/original-name "prompt模板"})}

@@ -1,0 +1,607 @@
+{:blocks (
+{:block/content "把SVG代码直接复制到粘贴栏目，完全没注意到，第一个链接导向的是HTML转换\n[Free Online HTML Escape / Unescape Tool - FreeFormatter.com](https://www.freeformatter.com/html-escape.html#before-output)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e5c-9b43-4ec2-8d2a-8bb0741dcc90"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64426e75-75c5-4554-abbe-f54fcd94ea99"} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "64426dde-6f57-47ab-9253-9ba44389d410"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 466.001577269508]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "59650fb0-e034-11ed-8485-dbc7c5451386"
+:noFill false
+:point [828.0811621834089 324.17198975972985]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:collapsedHeight 0
+:nonce 1682075096253}}
+:block/updated-at 1682715229536} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "64426e75-75c5-4554-abbe-f54fcd94ea99"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 112.99997072306074]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b605fb80-e034-11ed-8485-dbc7c5451386"
+:noFill false
+:point [828.0811621834089 -79.52315614838312]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:collapsedHeight 0
+:nonce 1682075251816}}
+:block/updated-at 1682715229536} 
+{:block/content "在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0c-af0e-4b00-a060-53a6a95f9f65"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df2-7d87-4bed-8a6b-17e50ccdd9f9"} 
+{:block/content "因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426de1-d417-42b2-a661-b38ef7ac88bf"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426de1-81ea-4015-8200-e453685afe93"} 
+{:block/content "通过群友（1057）提供的链接我找到了关于 logseq-plugin-wrap 插件的 icon 内容\n[关于 icon 如何选择？ · Issue #21 · sethyuan/logseq-plugin-wrap (github.com)](https://github.com/sethyuan/logseq-plugin-wrap/issues/21#issuecomment-1423519967)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e12-08c2-4744-a14c-e4003181c2c0"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64426e5c-9b43-4ec2-8d2a-8bb0741dcc90"} 
+{:block/content "在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df2-7d87-4bed-8a6b-17e50ccdd9f9"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df2-d70d-4714-842d-b69b68a0062c"} 
+{:block/content "因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df8-9d03-477d-ae6e-cb7fab9e2025"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df8-1b72-4bd1-adaf-43ceb3f4316b"} 
+{:block/content "因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df0-0494-4fc8-a7c2-a1e0316a5925"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df0-b499-4edb-9d7a-82627e526aa5"} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "36a7d292-e035-11ed-8485-dbc7c5451386"
+:fontWeight 400
+:noFill true
+:point [1012.95 34.48]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [8.14 0]
+:bindingId "36a7d290-e035-11ed-8485-dbc7c5451386"}
+:end 
+{:id "end"
+:canBind true
+:point [0 66.89]
+:bindingId "36a7d291-e035-11ed-8485-dbc7c5451386"}}
+:decorations 
+{:end "arrow"}
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:nonce 1682075467333
+:italic false}}
+:block/updated-at 1682715229536} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "64426ed8-d903-4703-90ec-c91acb9f932e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 137.00006391643174]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f0991980-e034-11ed-8485-dbc7c5451386"
+:noFill false
+:point [828.0811621834089 105.37087787030418]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:collapsedHeight 0
+:nonce 1682075349837}}
+:block/updated-at 1682715229536} 
+{:block/content "为什么这段代码添加在正确的位置添加了 \\ 就能在Logseq中有效\n请你为我解释下，是什么影响你添加 \\ 的\n---\n在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。\n在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。\n因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6441fb38-9186-4974-ad34-8f32201a7769"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64426dde-6f57-47ab-9253-9ba44389d410"} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "68f89212-e036-11ed-8485-dbc7c5451386"
+:fontWeight 400
+:noFill true
+:point [1025.61 791.17]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.4 0]
+:bindingId "68f89210-e036-11ed-8485-dbc7c5451386"}
+:end 
+{:id "end"
+:canBind true
+:point [0 45.97]
+:bindingId "68f89211-e036-11ed-8485-dbc7c5451386"}}
+:decorations 
+{:end "arrow"}
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:nonce 1682075981245
+:italic false}}
+:block/updated-at 1682715229536} 
+{:block/content "因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0c-c932-4df6-880c-74a6418e3f3c"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0c-af0e-4b00-a060-53a6a95f9f65"} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "64426fa5-0872-4c8e-844b-ab0d99cb93cf"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 192.99998777482617]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6b72d650-e035-11ed-8485-dbc7c5451386"
+:noFill false
+:point [832.720904587972 841.1432672778705]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:collapsedHeight 0
+:nonce 1682075556009}}
+:block/updated-at 1682715229536} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3f8bf9e2-e035-11ed-8485-dbc7c5451386"
+:fontWeight 400
+:noFill true
+:point [1028.08 243.37]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "3f8bf9e0-e035-11ed-8485-dbc7c5451386"}
+:end 
+{:id "end"
+:canBind true
+:point [0 76.8]
+:bindingId "3f8bf9e1-e035-11ed-8485-dbc7c5451386"}}
+:decorations 
+{:end "arrow"}
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:nonce 1682075482269
+:italic false}}
+:block/updated-at 1682715229536} 
+{:block/content "在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0c-172d-4e7d-8ec6-47cd62a777d1"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0c-c932-4df6-880c-74a6418e3f3c"} 
+{:block/content "在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df0-28d5-42eb-ba00-0588989a990b"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df0-0494-4fc8-a7c2-a1e0316a5925"} 
+{:block/content "在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df7-4ba0-49ae-b41c-f81de9d0a837"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df8-9d03-477d-ae6e-cb7fab9e2025"} 
+{:block/content "在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426dde-6f57-47ab-9253-9ba44389d410"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0f-c4a4-4e1d-9ce8-001f56750cf6"} 
+{:block/content "在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0f-c4a4-4e1d-9ce8-001f56750cf6"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0f-0576-4620-95b8-daa13162d06d"} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6441fb38-9186-4974-ad34-8f32201a7769"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.99363318713994]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "063d2910-dff0-11ed-bd93-c5e7d1771290"
+:noFill false
+:point [144.83334350585938 288.16668701171875]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:collapsedHeight 0
+:nonce 1682045750844}}
+:block/updated-at 1682715229536} 
+{:block/content "03/30 第 1 堂：写实头部结构与二次元的区别"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "6441fb38-9186-4974-ad34-8f32201a7769"} 
+{:block/content "在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df0-b499-4edb-9d7a-82627e526aa5"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426de1-edf3-4e1b-a12c-7774d5cb8c8c"} 
+{:block/content "在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426de1-edf3-4e1b-a12c-7774d5cb8c8c"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426de1-d417-42b2-a661-b38ef7ac88bf"} 
+{:block/content "然后我就去问GPT（3.5），并把正确的例子给它学习，但它的结果也不对\n不过生成的结果可以说是非常相似了，于是我观察了下代码差异，发现抱错（Vscode的提示）的地方是没有添加 `\\`这个符号，于是"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e75-75c5-4554-abbe-f54fcd94ea99"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64426ed8-d903-4703-90ec-c91acb9f932e"} 
+{:block/content "在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0f-90ae-47fc-a881-b069b793225b"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0d-ae97-4ba4-b67c-1871a8ecacb2"} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "64426e5c-9b43-4ec2-8d2a-8bb0741dcc90"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 112.99998786007635]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a7db9420-e034-11ed-8485-dbc7c5451386"
+:noFill false
+:point [826.8988824158846 -236.0765615389293]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:collapsedHeight 0
+:nonce 1682075227963}}
+:block/updated-at 1682715229536} 
+{:block/content "因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0f-0576-4620-95b8-daa13162d06d"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0f-90ae-47fc-a881-b069b793225b"} 
+{:block/content "在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df8-1b72-4bd1-adaf-43ceb3f4316b"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64426e12-08c2-4744-a14c-e4003181c2c0"} 
+{:block/content "然后我就寻找到了正确的转换网址链接（\n> 不过也可以让GPT来完成这件事，它转换的更赏心悦目一点\n> * 请你为我将以下代码的正确位置 添加上 \\\n\n[Free Online JSON Escape / Unescape Tool - FreeFormatter.com](https://www.freeformatter.com/json-escape.html)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426ed8-d903-4703-90ec-c91acb9f932e"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64426fa5-0872-4c8e-844b-ab0d99cb93cf"} 
+{:block/content "在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0d-ccf5-4841-94f1-2c8d66522cf4"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0c-172d-4e7d-8ec6-47cd62a777d1"} 
+{:block/content "在像Logseq这样的应用程序中，当您将代码粘贴到其中时，它会将这些代码解释为文本。如果您在代码中使用双引号或单引号而没有使用反斜杠将它们转义，Logseq将把它们视为代码的结束符，而不是字符串的一部分。这将导致代码无法正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0d-ae97-4ba4-b67c-1871a8ecacb2"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0d-a79b-4f38-a90a-09503fd4cc7d"} 
+{:block/content "因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426e0d-a79b-4f38-a90a-09503fd4cc7d"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426e0d-ccf5-4841-94f1-2c8d66522cf4"} 
+{:block/content "在JSON、HTML、CSS等代码中，双引号（\"）和单引号（'）通常用来表示字符串。但是，如果您在字符串中使用双引号或单引号，则需要使用反斜杠（\\）来转义这些字符，以便它们被视为字符串的一部分而不是代码的结束符。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df2-57af-4fd6-9e10-d990a51cc6f5"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df0-28d5-42eb-ba00-0588989a990b"} 
+{:block/content "因此，当您在Logseq中粘贴代码时，需要添加反斜杠来转义双引号或单引号，以确保代码能够正确解析并显示。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426df2-d70d-4714-842d-b69b68a0062c"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/uuid #uuid "64426df2-57af-4fd6-9e10-d990a51cc6f5"} 
+{:block/created-at 1682715229536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e7a0cdf2-e034-11ed-8485-dbc7c5451386"
+:fontWeight 400
+:noFill true
+:point [1012.71 -122.08]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [5.7 0]
+:bindingId "e7a0cdf0-e034-11ed-8485-dbc7c5451386"}
+:end 
+{:id "end"
+:canBind true
+:point [0 38.56]
+:bindingId "491a9201-e035-11ed-8485-dbc7c5451386"}}
+:decorations 
+{:end "arrow"}
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:nonce 1682075334806
+:italic false}}
+:block/updated-at 1682715229536} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64426de1-81ea-4015-8200-e453685afe93"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64426df7-4ba0-49ae-b41c-f81de9d0a837"})
+:pages (
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:name "2023年4月21号"
+:bindings 
+{:e7a0cdf0-e034-11ed-8485-dbc7c5451386 
+{:id "e7a0cdf0-e034-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "e7a0cdf2-e034-11ed-8485-dbc7c5451386"
+:toId "a7db9420-e034-11ed-8485-dbc7c5451386"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:68f89210-e036-11ed-8485-dbc7c5451386 
+{:id "68f89210-e036-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "68f89212-e036-11ed-8485-dbc7c5451386"
+:toId "59650fb0-e034-11ed-8485-dbc7c5451386"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:68f89211-e036-11ed-8485-dbc7c5451386 
+{:id "68f89211-e036-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "68f89212-e036-11ed-8485-dbc7c5451386"
+:toId "6b72d650-e035-11ed-8485-dbc7c5451386"
+:handleId "end"
+:point [0.48 0.59]
+:distance 4}
+:3f8bf9e0-e035-11ed-8485-dbc7c5451386 
+{:id "3f8bf9e0-e035-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "3f8bf9e2-e035-11ed-8485-dbc7c5451386"
+:toId "f0991980-e034-11ed-8485-dbc7c5451386"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:3f8bf9e1-e035-11ed-8485-dbc7c5451386 
+{:id "3f8bf9e1-e035-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "3f8bf9e2-e035-11ed-8485-dbc7c5451386"
+:toId "59650fb0-e034-11ed-8485-dbc7c5451386"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:36a7d291-e035-11ed-8485-dbc7c5451386 
+{:id "36a7d291-e035-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "36a7d292-e035-11ed-8485-dbc7c5451386"
+:toId "f0991980-e034-11ed-8485-dbc7c5451386"
+:handleId "end"
+:point [0.44 0.53]
+:distance 4}
+:491a9201-e035-11ed-8485-dbc7c5451386 
+{:id "491a9201-e035-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "e7a0cdf2-e034-11ed-8485-dbc7c5451386"
+:toId "b605fb80-e034-11ed-8485-dbc7c5451386"
+:handleId "end"
+:point [0.44 0.51]
+:distance 4}
+:e7a0cdf1-e034-11ed-8485-dbc7c5451386 
+{:id "e7a0cdf1-e034-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "e7a0cdf2-e034-11ed-8485-dbc7c5451386"
+:toId "b605fb80-e034-11ed-8485-dbc7c5451386"
+:handleId "end"
+:point [0.27 0.54]
+:distance 4}
+:36a7d290-e035-11ed-8485-dbc7c5451386 
+{:id "36a7d290-e035-11ed-8485-dbc7c5451386"
+:type "line"
+:fromId "36a7d292-e035-11ed-8485-dbc7c5451386"
+:toId "b605fb80-e034-11ed-8485-dbc7c5451386"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("063d2910-dff0-11ed-bd93-c5e7d1771290" "59650fb0-e034-11ed-8485-dbc7c5451386" "a7db9420-e034-11ed-8485-dbc7c5451386" "b605fb80-e034-11ed-8485-dbc7c5451386" "e7a0cdf2-e034-11ed-8485-dbc7c5451386" "f0991980-e034-11ed-8485-dbc7c5451386" "36a7d292-e035-11ed-8485-dbc7c5451386" "3f8bf9e2-e035-11ed-8485-dbc7c5451386" "6b72d650-e035-11ed-8485-dbc7c5451386" "68f89212-e036-11ed-8485-dbc7c5451386")}}
+:block/updated-at 1682715229536
+:block/created-at 1682045271852
+:block/type "whiteboard"
+:block/name "2023年4月21号"
+:block/original-name "2023年4月21号"})}

@@ -1,0 +1,1388 @@
+{:blocks (
+{:block/content "{{video https://www.bilibili.com/video/BV1J54y137kt/?vd_source=257ffc72854d59507aa0553e4223ea52}}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643ca84e-4d7a-4661-a5b7-3c4f8805fd73"} 
+{:block/content "[给ChatGPT施咒，让它为你制作Anki卡片——Prompt工程案例 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/609413004)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ca84e-4d7a-4661-a5b7-3c4f8805fd73"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643ca92f-89d0-4a89-9dac-80bdc997de39"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "643ca92f-89d0-4a89-9dac-80bdc997de39"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 64.99995796143192]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "30d72420-dcc4-11ed-8dd2-736b10de54e1"
+:noFill false
+:point [1769.6012502626497 8.716778323492633]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681697073459}}
+:block/updated-at 1681739492198} 
+{:block/content "[NLP新宠——浅谈Prompt的前世今生 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/399295895)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ca92f-89d0-4a89-9dac-80bdc997de39"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643ca941-f2f9-4b29-a175-ff52bea43578"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "643ca941-f2f9-4b29-a175-ff52bea43578"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 64.99995796143192]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3ae350b0-dcc4-11ed-8dd2-736b10de54e1"
+:noFill false
+:point [539.38543603635 -581.7019587221208]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681697089134}}
+:block/updated-at 1681739492198} 
+{:block/content "[你真的会用AI么？关于AI的prompt，一定要学会！(ChatGPT/Midjourney/Stable-diffusion)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J54y137kt/?vd_source=257ffc72854d59507aa0553e4223ea52)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ca941-f2f9-4b29-a175-ff52bea43578"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643ca972-bae3-44a8-adf4-c5e41a23db55"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "643caf2f-786a-4d30-9f0a-3a041e328517"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing false
+:type "logseq-portal"
+:size [262.3236081414873 138.61482601601972]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c4135f80-dcc7-11ed-b288-79106a06be51"
+:noFill false
+:point [585.336884184197 -240.81274238595591]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681698609186}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "这里的描述只是面向PLM，但并不完全适用NLP"
+:id "cd0b35e2-dcc7-11ed-b288-79106a06be51"
+:fontWeight 400
+:noFill true
+:point [733.82 -515.7]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [4.95 0]
+:bindingId "cd0b35e0-dcc7-11ed-b288-79106a06be51"}
+:end 
+{:id "end"
+:canBind true
+:point [0 270.89]
+:bindingId "cd0b35e1-dcc7-11ed-b288-79106a06be51"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681698622813
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/content "研究者们为了下游任务设计出来的一种==输入形式或模板==，它能够帮助PLM“回忆”起自己在预训练时“学习”到的东西，因此后来慢慢地被叫做Prompt了。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ca972-bae3-44a8-adf4-c5e41a23db55"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643caf2f-786a-4d30-9f0a-3a041e328517"} 
+{:block/content "https://www.zhihu.com/column/p/608495853"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643caf2f-786a-4d30-9f0a-3a041e328517"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643cb5a4-2ed7-4dd0-be83-00fccd41e15d"} 
+{:block/content "{{video https://www.bilibili.com/video/BV1J54y137kt/?vd_source=257ffc72854d59507aa0553e4223ea52}}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643cb5a4-2ed7-4dd0-be83-00fccd41e15d"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643cdc69-306e-431e-a075-7134781088a4"} 
+{:block/content "/"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643cdc69-306e-431e-a075-7134781088a4"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643cde3b-4df2-4f7a-a6d5-fa4ba0880f92"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643cde3b-4df2-4f7a-a6d5-fa4ba0880f92"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643cde6b-12d0-4b88-a91f-47806d840415"} 
+{:block/content "[ChatGPT火爆，最全prompt工程指南登GitHub热榜，标星4.7k！ - 知乎 (zhihu.com)](https://www.zhihu.com/column/p/608495853)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643cde6b-12d0-4b88-a91f-47806d840415"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643cdfc4-dcca-40cb-825b-75e53c2fc060"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "643cdfc4-dcca-40cb-825b-75e53c2fc060"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65.00004841651514]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b8a99890-dce4-11ed-a11a-75ef5c4e1de7"
+:noFill false
+:point [1618.6012081621634 -180.5664973947559]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681711043553}}
+:block/updated-at 1681739492198} 
+{:block/content "背景信息\nid:: 643d06f2-d047-4608-b4ad-0bb3b637f5e6"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643cdfc4-dcca-40cb-825b-75e53c2fc060"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{:id "643d06f2-d047-4608-b4ad-0bb3b637f5e6"}
+:block/uuid #uuid "643d06f2-d047-4608-b4ad-0bb3b637f5e6"} 
+{:block/created-at 1681739492197
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "643d06f2-d047-4608-b4ad-0bb3b637f5e6"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [88.26676403404394 40.9999768038981]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1355e8e0-dcfc-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [508.9904550466131 608.1123874920304]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681721074880}}
+:block/updated-at 1681739492197} 
+{:block/content "见人说人话，见鬼说鬼话\nid:: 643d07cf-a11d-4c6d-b2b9-eb57f0bb112d"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d06f2-d047-4608-b4ad-0bb3b637f5e6"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{:id "643d07cf-a11d-4c6d-b2b9-eb57f0bb112d"}
+:block/uuid #uuid "643d07cf-a11d-4c6d-b2b9-eb57f0bb112d"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "643d07cf-a11d-4c6d-b2b9-eb57f0bb112d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [204 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "96991ec0-dcfc-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [459.7993038708298 482.9338670492692]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681721294906}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492197
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a27a0b50-dcfc-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [564.19 524.93]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "a279e440-dcfc-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [8.82 79.18]
+:bindingId "a279e441-dcfc-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681721314595
+:italic false}}
+:block/updated-at 1681739492197} 
+{:block/content "[后GPT4时代：Prompt、Prompt工程师与Prompt的优化_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Pm4y167PE/?vd_source=257ffc72854d59507aa0553e4223ea52)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d07cf-a11d-4c6d-b2b9-eb57f0bb112d"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643d09a3-8bbd-445b-a851-354c6b4e3244"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "643d09a3-8bbd-445b-a851-354c6b4e3244"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ae34b5c0-dcfd-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [403.89453653026726 97.32376183828626]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681721763550}}
+:block/updated-at 1681739492198} 
+{:block/content "如何提供给GPT更好的Prompt"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d09a3-8bbd-445b-a851-354c6b4e3244"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643d09b5-3507-437c-a434-71c3bf9e920d"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "643d09b5-3507-437c-a434-71c3bf9e920d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [247.2174311552185 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b9248b90-dcfd-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [943.5231920148415 110.53225055868342]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681721782246}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "26c015c2-dcfe-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [804.89 132.23]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "26c015c0-dcfe-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [134.63 1.62]
+:bindingId "26c015c1-dcfe-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681721965894
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/content "为什么多数时候询问问题得不到想要的答案\nid:: 643d0ce9-73c3-4b26-9d09-35219c5ad54b"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d09b5-3507-437c-a434-71c3bf9e920d"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{:id "643d0ce9-73c3-4b26-9d09-35219c5ad54b"}
+:block/uuid #uuid "643d0ce9-73c3-4b26-9d09-35219c5ad54b"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "643d0ce9-73c3-4b26-9d09-35219c5ad54b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41.000063980897245]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a1564470-dcff-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [389.9467630466363 335.42914000273265]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681722600649}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b57c3222-dcff-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [577.9255710334439 377.42554473028406]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [9.92 0]
+:bindingId "b57c3220-dcff-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [0 101.51]
+:bindingId "b57c3221-dcff-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681722634543
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492197
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b7c510b2-dcff-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [577.3101016114123 163.32717273281105]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [22.17 0]
+:bindingId "b7c510b0-dcff-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [0 168.1]
+:bindingId "b7c510b1-dcff-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681722638278
+:italic false}}
+:block/updated-at 1681739492197} 
+{:block/content "1.**清晰阴确**：确保你的Prompt能够清是明确地表达你的需求。例如，如果你想让AI回答一个问题，记问题写得简单明了，让A!更容易理解。\nid:: 643d11ba-243d-47bd-a263-83b181510bc7\n---\n2.**提供足够的信息**：在Prompt中提供足够的背景信息和细节，以便A1能够充分了解上下文并给出合话的回答。\n---\n3.**采用适当的格式**：使用适出的语法和格式，以便！能够准确地识别你的需求。例如，如果你需要一留文章的摘要，可以先告诉AI“请为以下文章提供一个简短的摘要：”，然后附上文章内容。\n---\n4.**分步引导**：对于复奈的需求，可以尝试分步引导AI。例如，先让AI回答一个与最终目标相关的简单问题，然后根据回答逐步引导A!生成你想要的结果。\n---\n5.**尝试不同的表述**：如果你发现A!的回答不够理想。可以尝试用不同的方式表述你的Prompt,这有助于找到更适合引导Al的表述方式，\n---\n6.**循序渐进**：不要期望一开始就得到完美的结果。通过不斯尝试和调整Prompt,你将逐渐了解如何与AI进行更有效的沟通，：确保你的Prompt能够清是明确地表达你的需求。例如，如果你想让A!回答一个问题，记问题写得简单明了，让A!更容易理解。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d0ce9-73c3-4b26-9d09-35219c5ad54b"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{:id "643d11ba-243d-47bd-a263-83b181510bc7"}
+:block/uuid #uuid "643d11ba-243d-47bd-a263-83b181510bc7"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 14
+:scale [1 1]
+:pageId "643d11ba-243d-47bd-a263-83b181510bc7"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 846.0000497840322]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8030d370-dd02-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [985.8868461463674 427.35508368224333]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681723834303}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "原则"
+:id "e66d0192-dd02-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [1069.05 151.53]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e66d0190-dd02-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [24.81 271.83]
+:bindingId "e66d0191-dd02-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681724005060
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492197
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "47098502-dd03-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [793.09 -101.2]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "47098500-dd03-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [226.31 207.73]
+:bindingId "47098501-dd03-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681724166726
+:italic false}}
+:block/updated-at 1681739492197} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "额外阅读材料"
+:id "de210622-dd03-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [1114.06 -114.47]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 224]
+:bindingId "de210620-dd03-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [500.54 0]
+:bindingId "de210621-dd03-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681724420040
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/content "https://www.bilibili.com/video/BV1Pm4y167PE/"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d11ba-243d-47bd-a263-83b181510bc7"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643d15a0-39a3-4ff9-a7e2-339a4a8d561d"} 
+{:block/content "实际上这个教程基本是针对编程和英文的，中文在单个词汇"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d15a0-39a3-4ff9-a7e2-339a4a8d561d"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "643d160e-43be-42b9-acb3-de348ab07ddb"} 
+{:block/content "实际上这个教程基本是针对编程和英文的，中文在单个词汇的表达替换比英文更清楚，ai理解错误的概率也更小，当然完全不会组织语言另说"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d160e-43be-42b9-acb3-de348ab07ddb"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "643d1625-6ba0-436d-88bf-1460672fed35"} 
+{:block/content "https://github.com/dair-ai/Prompt-Engineering-Guide"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d1625-6ba0-436d-88bf-1460672fed35"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "643d16d5-c8b7-4186-9028-9636c77bed42"} 
+{:block/content "[dair-ai/提示工程指南：🐙用于快速工程的指南、论文、讲座、笔记本和资源 (github.com)](https://github.com/dair-ai/Prompt-Engineering-Guide)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d16d5-c8b7-4186-9028-9636c77bed42"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643d16ed-6850-4f02-ad15-972809568dba"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "643d16ed-6850-4f02-ad15-972809568dba"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 64.99997618503278]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9a0383d0-dd05-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [1677.6972730595703 -456.39526403750915]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681725165415}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a0a44ad2-dd05-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [1821.55 -387.4]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 205.83]
+:bindingId "a0a44ad0-dd05-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [18.14 0]
+:bindingId "a0a44ad1-dd05-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681725175832
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c83317c2-dd05-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [598.26 475.24]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 137.23]
+:bindingId "c83317c0-dd05-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [383.63 0]
+:bindingId "c83317c1-dd05-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681725242199
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/content "案例"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d16ed-6850-4f02-ad15-972809568dba"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643d17e0-f11b-4ab9-ad13-31e9e0c1432b"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 21
+:scale [1 1]
+:pageId "643d17e0-f11b-4ab9-ad13-31e9e0c1432b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [60.58550494209294 41.00006481973723]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2af6c0f0-dd06-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [1433.0029797150435 155.7282243590613]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681725407911}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 22
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "30e0bb12-dd06-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [1191.74 147.04]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "30e0bb10-dd06-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [237.27 31.43]
+:bindingId "30e0bb11-dd06-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681725417809
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492197
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "32198932-dd06-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [1494.59 77.72]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 88.89]
+:bindingId "32198930-dd06-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [289.21 0]
+:bindingId "32198931-dd06-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681725419849
+:italic false}}
+:block/updated-at 1681739492197} 
+{:block/content "((643baccd-37de-4f6e-aac6-7796feff0927))\n我希望你能帮我完成一些数据输入类的工作，比如以下数据内容：\n\n-11.00\n午餐\n12:33\n---\n-8.00\n零食\n16:34\n冰粉\n\n数据的第一列代表的意思是：金额\n数据的第二列代表的意思是：分类\n数据的第三列代表是意思是：时间\n如果数据有第四列代表的意思是：备注\n而我使用‘---’隔开，是为了告诉你前后数据，如上面数据中'---'上方的数据是'12:33'发生的，而下方的数据是‘16:34’发生的\n\n那么有了以上条件，我会希望数据变成表格的样式，方便我统计，比如下方这个表格案例：\n"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d17e0-f11b-4ab9-ad13-31e9e0c1432b"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643d1834-7fec-4ee5-a888-8fc85261558b"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 24
+:scale [1 1]
+:pageId "643d1834-7fec-4ee5-a888-8fc85261558b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 88.99999850953196]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5d108760-dd06-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [1491.257988249433 342.1646470621131]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681725492150}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "73ad4172-dd06-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [1476 197.73]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "73ad4170-dd06-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [83.01 140.43]
+:bindingId "73ad4171-dd06-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681725529881
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/content "[ChatGPT Shortcut - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts | Tag filtering, keyword search, and one-click copy prompts (aishort.top)](https://www.aishort.top/cn/)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "32ba80cf-748f-4c29-b4fe-6a17f7ccec4a"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/properties 
+{}
+:block/uuid #uuid "643d190c-c8d1-43ab-993a-3b01edb0ddb5"} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 26
+:scale [1 1]
+:pageId "643d190c-c8d1-43ab-993a-3b01edb0ddb5"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113.00000545688738]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "de06c000-dd06-11ed-804e-8dbaa6edb88f"
+:noFill false
+:point [1756.1123066424866 153.88102780653702]
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:collapsedHeight 0
+:nonce 1681725708416}}
+:block/updated-at 1681739492198} 
+{:block/created-at 1681739492198
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 27
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f42aeeb0-dd06-11ed-804e-8dbaa6edb88f"
+:fontWeight 400
+:noFill true
+:point [1494.59 178.99]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "f42ac7a0-dd06-11ed-804e-8dbaa6edb88f"}
+:end 
+{:id "end"
+:canBind true
+:point [257.53 22.71]
+:bindingId "f42ac7a1-dd06-11ed-804e-8dbaa6edb88f"}}
+:decorations 
+{:end "arrow"}
+:parentId "643ca7ac-ecd7-4797-a066-f2eecf122e59"
+:nonce 1681725745442
+:italic false}}
+:block/updated-at 1681739492198} 
+{:block/content "| \n | 金额 | \n | 分类 | \n | 时间 | \n | 备注 | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "421fd606-5042-46de-adee-309227c351f1"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "9aeb2cb1-348d-4598-8ec1-8624735f6898"} 
+{:block/content "| \n | -11 | \n | 午餐 | \n | 12:33 | \n |  | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "9aeb2cb1-348d-4598-8ec1-8624735f6898"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "b09fb831-eedd-4a78-a1b9-d89bfbd333eb"} 
+{:block/content "| \n | -8 | \n | 零食 | \n | 16:34 | \n | 冰粉 | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "b09fb831-eedd-4a78-a1b9-d89bfbd333eb"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "32ba80cf-748f-4c29-b4fe-6a17f7ccec4a"} 
+{:block/content "| \n | 金额 | \n | 分类 | \n | 时间 | \n | 备注 | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "abe63b4a-faad-48f0-92a8-e6adb8a6d7fc"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "4229a5ac-0606-4244-855b-bfca27fb0296"} 
+{:block/content "| \n | -11 | \n | 午餐 | \n | 12:33 | \n |  | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "4229a5ac-0606-4244-855b-bfca27fb0296"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "9746d68d-b9d3-434e-bb35-f8b876c7ade9"} 
+{:block/content "| \n | -8 | \n | 零食 | \n | 16:34 | \n | 冰粉 | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "9746d68d-b9d3-434e-bb35-f8b876c7ade9"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "421fd606-5042-46de-adee-309227c351f1"} 
+{:block/content "| \n | 金额 | \n | 分类 | \n | 时间 | \n | 备注 | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643d1834-7fec-4ee5-a888-8fc85261558b"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "0c9bf15c-b48f-4cba-8bbb-8a34920cf00b"} 
+{:block/content "| \n | -11 | \n | 午餐 | \n | 12:33 | \n |  | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "0c9bf15c-b48f-4cba-8bbb-8a34920cf00b"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "05c3375b-cb22-4233-9bac-17b4def907ad"} 
+{:block/content "| \n | -8 | \n | 零食 | \n | 16:34 | \n | 冰粉 | \n|"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "05c3375b-cb22-4233-9bac-17b4def907ad"}
+:block/parent 
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"}
+:block/uuid #uuid "abe63b4a-faad-48f0-92a8-e6adb8a6d7fc"})
+:pages (
+{:block/uuid #uuid "643d4b4a-ee5d-41c4-baca-f3a340338cda"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "643d4b4a-ee5d-41c4-baca-f3a340338cda"
+:name "2023年4月17号"
+:bindings 
+{:73ad4170-dd06-11ed-804e-8dbaa6edb88f 
+{:id "73ad4170-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "73ad4172-dd06-11ed-804e-8dbaa6edb88f"
+:toId "2af6c0f0-dd06-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:de210621-dd03-11ed-804e-8dbaa6edb88f 
+{:id "de210621-dd03-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "de210622-dd03-11ed-804e-8dbaa6edb88f"
+:toId "b8a99890-dce4-11ed-a11a-75ef5c4e1de7"
+:handleId "end"
+:point [0.22 0.41]
+:distance 4}
+:a0a44ad0-dd05-11ed-804e-8dbaa6edb88f 
+{:id "a0a44ad0-dd05-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "a0a44ad2-dd05-11ed-804e-8dbaa6edb88f"
+:toId "b8a99890-dce4-11ed-a11a-75ef5c4e1de7"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e66d0190-dd02-11ed-804e-8dbaa6edb88f 
+{:id "e66d0190-dd02-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "e66d0192-dd02-11ed-804e-8dbaa6edb88f"
+:toId "b9248b90-dcfd-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a279e440-dcfc-11ed-804e-8dbaa6edb88f 
+{:id "a279e440-dcfc-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "a27a0b50-dcfc-11ed-804e-8dbaa6edb88f"
+:toId "96991ec0-dcfc-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b57c3221-dcff-11ed-804e-8dbaa6edb88f 
+{:id "b57c3221-dcff-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "b57c3222-dcff-11ed-804e-8dbaa6edb88f"
+:toId "96991ec0-dcfc-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.56 0.71]
+:distance 4}
+:30e0bb11-dd06-11ed-804e-8dbaa6edb88f 
+{:id "30e0bb11-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "30e0bb12-dd06-11ed-804e-8dbaa6edb88f"
+:toId "2af6c0f0-dd06-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.67 0.67]
+:distance 4}
+:b57c3220-dcff-11ed-804e-8dbaa6edb88f 
+{:id "b57c3220-dcff-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "b57c3222-dcff-11ed-804e-8dbaa6edb88f"
+:toId "a1564470-dcff-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b7c510b0-dcff-11ed-804e-8dbaa6edb88f 
+{:id "b7c510b0-dcff-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "b7c510b2-dcff-11ed-804e-8dbaa6edb88f"
+:toId "ae34b5c0-dcfd-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:32198931-dd06-11ed-804e-8dbaa6edb88f 
+{:id "32198931-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "32198932-dd06-11ed-804e-8dbaa6edb88f"
+:toId "30d72420-dcc4-11ed-8dd2-736b10de54e1"
+:handleId "end"
+:point [0.26 0.63]
+:distance 4}
+:f42ac7a1-dd06-11ed-804e-8dbaa6edb88f 
+{:id "f42ac7a1-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "f42aeeb0-dd06-11ed-804e-8dbaa6edb88f"
+:toId "de06c000-dd06-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.51 0.58]
+:distance 4}
+:32198930-dd06-11ed-804e-8dbaa6edb88f 
+{:id "32198930-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "32198932-dd06-11ed-804e-8dbaa6edb88f"
+:toId "2af6c0f0-dd06-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:cd0b35e0-dcc7-11ed-b288-79106a06be51 
+{:id "cd0b35e0-dcc7-11ed-b288-79106a06be51"
+:type "line"
+:fromId "cd0b35e2-dcc7-11ed-b288-79106a06be51"
+:toId "3ae350b0-dcc4-11ed-8dd2-736b10de54e1"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:26c015c0-dcfe-11ed-804e-8dbaa6edb88f 
+{:id "26c015c0-dcfe-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "26c015c2-dcfe-11ed-804e-8dbaa6edb88f"
+:toId "ae34b5c0-dcfd-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c83317c1-dd05-11ed-804e-8dbaa6edb88f 
+{:id "c83317c1-dd05-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "c83317c2-dd05-11ed-804e-8dbaa6edb88f"
+:toId "8030d370-dd02-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.18 0.03]
+:distance 4}
+:a0a44ad1-dd05-11ed-804e-8dbaa6edb88f 
+{:id "a0a44ad1-dd05-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "a0a44ad2-dd05-11ed-804e-8dbaa6edb88f"
+:toId "9a0383d0-dd05-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.41 0.8]
+:distance 4}
+:47098500-dd03-11ed-804e-8dbaa6edb88f 
+{:id "47098500-dd03-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "47098502-dd03-11ed-804e-8dbaa6edb88f"
+:toId "c4135f80-dcc7-11ed-b288-79106a06be51"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a279e441-dcfc-11ed-804e-8dbaa6edb88f 
+{:id "a279e441-dcfc-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "a27a0b50-dcfc-11ed-804e-8dbaa6edb88f"
+:toId "1355e8e0-dcfc-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.74 0.59]
+:distance 4}
+:47098501-dd03-11ed-804e-8dbaa6edb88f 
+{:id "47098501-dd03-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "47098502-dd03-11ed-804e-8dbaa6edb88f"
+:toId "b9248b90-dcfd-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.44 0.62]
+:distance 4}
+:c83317c0-dd05-11ed-804e-8dbaa6edb88f 
+{:id "c83317c0-dd05-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "c83317c2-dd05-11ed-804e-8dbaa6edb88f"
+:toId "1355e8e0-dcfc-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:73ad4171-dd06-11ed-804e-8dbaa6edb88f 
+{:id "73ad4171-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "73ad4172-dd06-11ed-804e-8dbaa6edb88f"
+:toId "5d108760-dd06-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.27 0.67]
+:distance 4}
+:30e0bb10-dd06-11ed-804e-8dbaa6edb88f 
+{:id "30e0bb10-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "30e0bb12-dd06-11ed-804e-8dbaa6edb88f"
+:toId "b9248b90-dcfd-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b7c510b1-dcff-11ed-804e-8dbaa6edb88f 
+{:id "b7c510b1-dcff-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "b7c510b2-dcff-11ed-804e-8dbaa6edb88f"
+:toId "a1564470-dcff-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.46 0.57]
+:distance 4}
+:e66d0191-dd02-11ed-804e-8dbaa6edb88f 
+{:id "e66d0191-dd02-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "e66d0192-dd02-11ed-804e-8dbaa6edb88f"
+:toId "8030d370-dd02-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.37 0.5]
+:distance 4}
+:f42ac7a0-dd06-11ed-804e-8dbaa6edb88f 
+{:id "f42ac7a0-dd06-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "f42aeeb0-dd06-11ed-804e-8dbaa6edb88f"
+:toId "2af6c0f0-dd06-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:26c015c1-dcfe-11ed-804e-8dbaa6edb88f 
+{:id "26c015c1-dcfe-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "26c015c2-dcfe-11ed-804e-8dbaa6edb88f"
+:toId "b9248b90-dcfd-11ed-804e-8dbaa6edb88f"
+:handleId "end"
+:point [0.33 0.59]
+:distance 4}
+:de210620-dd03-11ed-804e-8dbaa6edb88f 
+{:id "de210620-dd03-11ed-804e-8dbaa6edb88f"
+:type "line"
+:fromId "de210622-dd03-11ed-804e-8dbaa6edb88f"
+:toId "b9248b90-dcfd-11ed-804e-8dbaa6edb88f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:cd0b35e1-dcc7-11ed-b288-79106a06be51 
+{:id "cd0b35e1-dcc7-11ed-b288-79106a06be51"
+:type "line"
+:fromId "cd0b35e2-dcc7-11ed-b288-79106a06be51"
+:toId "c4135f80-dcc7-11ed-b288-79106a06be51"
+:handleId "end"
+:point [0.56 0.41]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("30d72420-dcc4-11ed-8dd2-736b10de54e1" "3ae350b0-dcc4-11ed-8dd2-736b10de54e1" "c4135f80-dcc7-11ed-b288-79106a06be51" "cd0b35e2-dcc7-11ed-b288-79106a06be51" "b8a99890-dce4-11ed-a11a-75ef5c4e1de7" "1355e8e0-dcfc-11ed-804e-8dbaa6edb88f" "96991ec0-dcfc-11ed-804e-8dbaa6edb88f" "a27a0b50-dcfc-11ed-804e-8dbaa6edb88f" "ae34b5c0-dcfd-11ed-804e-8dbaa6edb88f" "b9248b90-dcfd-11ed-804e-8dbaa6edb88f" "26c015c2-dcfe-11ed-804e-8dbaa6edb88f" "a1564470-dcff-11ed-804e-8dbaa6edb88f" "b57c3222-dcff-11ed-804e-8dbaa6edb88f" "b7c510b2-dcff-11ed-804e-8dbaa6edb88f" "8030d370-dd02-11ed-804e-8dbaa6edb88f" "e66d0192-dd02-11ed-804e-8dbaa6edb88f" "47098502-dd03-11ed-804e-8dbaa6edb88f" "de210622-dd03-11ed-804e-8dbaa6edb88f" "9a0383d0-dd05-11ed-804e-8dbaa6edb88f" "a0a44ad2-dd05-11ed-804e-8dbaa6edb88f" "c83317c2-dd05-11ed-804e-8dbaa6edb88f" "2af6c0f0-dd06-11ed-804e-8dbaa6edb88f" "30e0bb12-dd06-11ed-804e-8dbaa6edb88f" "32198932-dd06-11ed-804e-8dbaa6edb88f" "5d108760-dd06-11ed-804e-8dbaa6edb88f" "73ad4172-dd06-11ed-804e-8dbaa6edb88f" "de06c000-dd06-11ed-804e-8dbaa6edb88f" "f42aeeb0-dd06-11ed-804e-8dbaa6edb88f")}}
+:block/journal? false
+:block/updated-at 1681739492197
+:block/created-at 1681696684726
+:block/type "whiteboard"
+:block/name "2023年4月17号"
+:block/original-name "2023年4月17号"})}

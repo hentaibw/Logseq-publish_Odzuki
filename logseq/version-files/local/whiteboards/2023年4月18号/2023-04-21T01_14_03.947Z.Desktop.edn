@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "id:: 643e9e29-ab04-4f38-a9a8-3431b56b3a49\n"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643e9e1c-1cda-45d6-abbc-4324b8e38aaa"}
+:block/parent 
+{:block/uuid #uuid "643e9e1c-1cda-45d6-abbc-4324b8e38aaa"}
+:block/properties 
+{:id "643e9e29-ab04-4f38-a9a8-3431b56b3a49"}
+:block/uuid #uuid "643e9e29-ab04-4f38-a9a8-3431b56b3a49"} 
+{:block/created-at 1681896946650
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "643e9e29-ab04-4f38-a9a8-3431b56b3a49"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [853.8458598837665 1376.133903544203]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "cb904ca0-ddee-11ed-8a6e-097f9e741b87"
+:noFill false
+:point [593.5 543.5]
+:parentId "643e9e1c-1cda-45d6-abbc-4324b8e38aaa"
+:collapsedHeight 0
+:nonce 1681825320773}}
+:block/updated-at 1681896946650} 
+{:block/content "数据的第一列代表的意思是：金额\n数据的第二列代表的意思是：分类\n数据的第三列代表是意思是：时间\n如果数据有第四列代表的意思是：备注\n而我使用‘---’隔开，是为了告诉你先后顺序\n如上面数据中'---'上方的数据是'12:33'发生的\n而下方的数据是‘16:34’发生的\n那么有了以上条件，我会希望数据变成表格的样式，方便我统计，比如下方这个表格案例：\n| 金额 | 分类 | 时间 | 备注 |\n| --- | --- | --- | --- |\n| -11.00 | 午餐 | 12:33 | |\n| -8.00 | 零食 | 16:34 | 冰粉 |"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643e9e29-ab04-4f38-a9a8-3431b56b3a49"}
+:block/parent 
+{:block/uuid #uuid "643e9e1c-1cda-45d6-abbc-4324b8e38aaa"}
+:block/uuid #uuid "4e1b6db5-0888-4a03-a316-9b85190b8109"})
+:pages (
+{:block/uuid #uuid "643e9e1c-1cda-45d6-abbc-4324b8e38aaa"
+:block/properties 
+{:id "643e9e29-ab04-4f38-a9a8-3431b56b3a49"}
+:block/updated-at 1682039523414
+:block/created-at 1681825308850
+:block/type "whiteboard"
+:block/name "2023年4月18号"
+:block/original-name "2023年4月18号"})}

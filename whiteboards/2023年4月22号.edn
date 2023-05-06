@@ -1,0 +1,378 @@
+{:blocks (
+{:block/content "这段css算是进β了\n"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/properties 
+{}
+:block/uuid #uuid "6442c805-c814-4662-949c-248fdc151061"} 
+{:block/content "/*添加一段虚线边框*/"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-79eb-4aa8-9b6f-839656265e00"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-adde-40c0-bf6c-9c11739c71d6"} 
+{:block/content ".editor-inner {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-adde-40c0-bf6c-9c11739c71d6"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-ff1a-4d98-9150-c4171272fb33"} 
+{:block/content "border: rgb(57, 197, 187);"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-ff1a-4d98-9150-c4171272fb33"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-1796-4df4-b2d7-05052d888217"} 
+{:block/content "border-style: dashed;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-1796-4df4-b2d7-05052d888217"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-411e-438a-b5b5-719074fd75db"} 
+{:block/content "padding-left: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-411e-438a-b5b5-719074fd75db"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-5f55-4042-b744-febdcb6b0055"} 
+{:block/content "padding-right: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-5f55-4042-b744-febdcb6b0055"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-242f-4bf7-aab7-736644f6d07e"} 
+{:block/content "padding-top: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-242f-4bf7-aab7-736644f6d07e"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-e4f5-4406-8c07-f4d11021d471"} 
+{:block/content "padding-bottom: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-e4f5-4406-8c07-f4d11021d471"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-82e7-4551-baf3-ce6328ebe6fd"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-82e7-4551-baf3-ce6328ebe6fd"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c83e-7dfe-457d-83e4-d01cd2537804"} 
+{:block/content "/*添加一段虚线边框*/"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-cce2-42a0-9b7d-b440c5e46a79"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-806e-4bf2-bb6f-f110c977ca20"} 
+{:block/content ".editor-inner {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-806e-4bf2-bb6f-f110c977ca20"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-c713-4812-826f-ef624c534a04"} 
+{:block/content "border: rgb(57, 197, 187);"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-c713-4812-826f-ef624c534a04"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-b582-4194-9605-7c2fbda5d815"} 
+{:block/content "border-style: dashed;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-b582-4194-9605-7c2fbda5d815"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-8c5b-4112-87f3-059c510f86e6"} 
+{:block/content "padding-left: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-8c5b-4112-87f3-059c510f86e6"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-8622-4547-be4f-b3ab17fcedc9"} 
+{:block/content "padding-right: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-8622-4547-be4f-b3ab17fcedc9"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-bd87-4b17-b6e2-03f513f58159"} 
+{:block/content "padding-top: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-bd87-4b17-b6e2-03f513f58159"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-80cc-4b9e-9e37-03410c5c4ffd"} 
+{:block/content "padding-bottom: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-80cc-4b9e-9e37-03410c5c4ffd"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-5151-493f-8bfd-d633691b84d1"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c841-5151-493f-8bfd-d633691b84d1"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c841-79eb-4aa8-9b6f-839656265e00"} 
+{:block/content "/*添加一段虚线边框*/"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c805-c814-4662-949c-248fdc151061"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-bc54-4dce-8f30-7e3680f5fe11"} 
+{:block/content ".editor-inner {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-bc54-4dce-8f30-7e3680f5fe11"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-1c6d-49e4-be16-ae5055be105e"} 
+{:block/content "border: rgb(57, 197, 187);"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-1c6d-49e4-be16-ae5055be105e"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-5af3-4be6-b2b4-16262152a2cd"} 
+{:block/content "border-style: dashed;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-5af3-4be6-b2b4-16262152a2cd"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-1508-427d-b8df-fe13bc702a3c"} 
+{:block/content "padding-left: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-1508-427d-b8df-fe13bc702a3c"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-6a3d-4e63-b38e-a7bcbe09e6d4"} 
+{:block/content "padding-right: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-6a3d-4e63-b38e-a7bcbe09e6d4"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-f79e-4ba0-b49e-4be37799caca"} 
+{:block/content "padding-top: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-f79e-4ba0-b49e-4be37799caca"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-dcb4-41d6-9091-6dcf638b6b36"} 
+{:block/content "padding-bottom: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-dcb4-41d6-9091-6dcf638b6b36"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-410a-43a6-8614-af5bf07157d3"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c847-410a-43a6-8614-af5bf07157d3"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c847-cce2-42a0-9b7d-b440c5e46a79"} 
+{:block/content "/*添加一段虚线边框*/"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c83e-7dfe-457d-83e4-d01cd2537804"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c849-43c8-4bb8-a575-ac29b165fd68"} 
+{:block/content ".editor-inner {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c849-43c8-4bb8-a575-ac29b165fd68"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-0103-406a-835e-061a2cccde7d"} 
+{:block/content "border: rgb(57, 197, 187);"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-0103-406a-835e-061a2cccde7d"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-d86d-4b27-936e-d679a1f1b5ac"} 
+{:block/content "border-style: dashed;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-d86d-4b27-936e-d679a1f1b5ac"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-ec1d-49f8-aeaf-1ac3c49b31a3"} 
+{:block/content "padding-left: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-ec1d-49f8-aeaf-1ac3c49b31a3"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-66c6-43cd-af03-3cfa6df75b11"} 
+{:block/content "padding-right: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-66c6-43cd-af03-3cfa6df75b11"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-0da3-4f85-a020-d39b753829f3"} 
+{:block/content "padding-top: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-0da3-4f85-a020-d39b753829f3"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-4a5e-4c17-b1af-25fae96c2072"} 
+{:block/content "padding-bottom: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-4a5e-4c17-b1af-25fae96c2072"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-3335-42f5-81df-9a448b895e91"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-3335-42f5-81df-9a448b895e91"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c84b-6465-45c6-afb6-dbbe767040c8"} 
+{:block/content "这段CSS 算是进β了\n\n/*添加一段虚线边框*/\n.editor-inner {\n  border: rgb(57, 197, 187);   \n  border-style: dashed;\n  padding-left: 10px;\n  padding-right: 10px;\n  padding-top: 5px;\n  padding-bottom: 5px;\n}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c84b-6465-45c6-afb6-dbbe767040c8"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/properties 
+{}
+:block/uuid #uuid "6442c857-6517-42a4-8777-44a0e718d7c6"} 
+{:block/created-at 1682098301969
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6442c857-6517-42a4-8777-44a0e718d7c6"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 280.9835510253906]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "49ac0980-e06a-11ed-9ca7-87aa182f2013"
+:noFill false
+:point [698.9265855186849 303.0269974440106]
+:parentId "6442c7ee-a38e-4de5-a662-407570b50ed3"
+:collapsedHeight 0
+:nonce 1682098262559}}
+:block/updated-at 1682098301969} 
+{:block/content "/*添加一段虚线边框*/"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c857-6517-42a4-8777-44a0e718d7c6"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-9d65-448d-944d-bc3a80b5c7e3"} 
+{:block/content ".editor-inner {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-9d65-448d-944d-bc3a80b5c7e3"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-7f84-4d8d-89d3-28d6b3199be5"} 
+{:block/content "border: rgb(57, 197, 187);"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-7f84-4d8d-89d3-28d6b3199be5"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-39f8-4329-895d-cd2fbb3fd32f"} 
+{:block/content "border-style: dashed;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-39f8-4329-895d-cd2fbb3fd32f"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-b06f-4971-ab76-e2e5770e6c76"} 
+{:block/content "padding-left: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-b06f-4971-ab76-e2e5770e6c76"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-2f85-4fe4-89fc-62d994b9cea4"} 
+{:block/content "padding-right: 10px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-2f85-4fe4-89fc-62d994b9cea4"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-c32e-4545-9650-1be7b6da3738"} 
+{:block/content "padding-top: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-c32e-4545-9650-1be7b6da3738"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-543b-4602-a83e-e32c69169868"} 
+{:block/content "padding-bottom: 5px;"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-543b-4602-a83e-e32c69169868"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-5f93-487e-a564-81619a5dac42"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6442c865-5f93-487e-a564-81619a5dac42"}
+:block/parent 
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"}
+:block/uuid #uuid "6442c865-58ba-40d6-bca7-7aa481e99b6a"})
+:pages (
+{:block/uuid #uuid "6442c7ee-a38e-4de5-a662-407570b50ed3"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6442c7ee-a38e-4de5-a662-407570b50ed3"
+:name "2023年4月22号"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("49ac0980-e06a-11ed-9ca7-87aa182f2013")}}
+:block/updated-at 1682098301969
+:block/created-at 1682098158652
+:block/type "whiteboard"
+:block/name "2023年4月22号"
+:block/original-name "2023年4月22号"})}

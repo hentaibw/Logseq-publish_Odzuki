@@ -1,0 +1,74 @@
+{:blocks (
+{:block/content "03/30 第 1 堂：写实头部结构与二次元的区别"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/parent 
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"}
+:block/properties 
+{}
+:block/uuid #uuid "6441fb38-9186-4974-ad34-8f32201a7769"} 
+{:block/created-at 1682049205588
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6441fb38-9186-4974-ad34-8f32201a7769"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.99998092651367]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "063d2910-dff0-11ed-bd93-c5e7d1771290"
+:noFill false
+:point [144.83334350585938 288.16668701171875]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:collapsedHeight 0
+:nonce 1682045750840}}
+:block/updated-at 1682049205588} 
+{:block/created-at 1682049205589
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:fill ""
+:type "pencil"
+:points [[8.19807695171221 0 0.5] [0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "05aed220-dff8-11ed-864f-f7d84dc9c5af"
+:noFill true
+:point [636.7036564294681 246.63134692086345]
+:parentId "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:nonce 1682049185860
+:isComplete false}}
+:block/updated-at 1682049205589})
+:pages (
+{:block/uuid #uuid "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6441f957-11ab-437b-88dd-95e7b5fd6fae"
+:name "2023年4月21号"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("063d2910-dff0-11ed-bd93-c5e7d1771290" "05aed220-dff8-11ed-864f-f7d84dc9c5af")}}
+:block/updated-at 1682049205588
+:block/created-at 1682045271852
+:block/type "whiteboard"
+:block/name "2023年4月21号"
+:block/original-name "2023年4月21号"})}

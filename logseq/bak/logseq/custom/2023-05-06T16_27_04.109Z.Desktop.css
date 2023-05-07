@@ -100,14 +100,30 @@ table.mytable th {
   border-width: 1px;
 }
 
-/*.editor-inner 更改 Logseq 光标颜色*/ 
-textarea {
-  caret-color:rgb(180,169,45);
-  caret-size: 12px;
+/* 更改选中文本颜色 */
+textarea::selection {  
+  background: rgba(0, 175, 200, 0.25);  
 }
 
-textarea {
-  caret-color: rgb(180, 169, 45);
-  caret-width: 2px;
-  caret-height: 1.2em;
+:root {
+  --caret-color-light: rgb(0, 0, 0);
+  --caret-color-dark: rgb(0, 255, 221);
 }
+
+/* 亮主题下的样式 */
+[data-theme="light"] textarea {
+  caret-color: var(--caret-color-light);
+}
+
+/* 暗主题下的样式 */
+[data-theme="dark"] textarea {
+  caret-color: var(--caret-color-dark);
+}
+
+  /* Change the default size of image */
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+    }

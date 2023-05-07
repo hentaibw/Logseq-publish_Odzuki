@@ -116,14 +116,14 @@
 :nonce 1681568644911
 :italic false}}
 :block/updated-at 1681695449063} 
-{:block/content "~~Logseq~~\n---\n思源笔记\n---\n~~WPS~~\n---\nXPS查看器\n---\n~~Anki~~\n---\ncctalk\n---\n~~vs Code~~\n---\n~~Bookxnote Pro~~\n---\n~~Quicker~~\n---\n~~zotero~~\n---\n~~GitHub desktop~~\n---\nDrawboard PDF\n---\nOffice"
+{:block/content "~~Logseq~~\nid:: 643ab38e-2345-4c4b-b6aa-6ae254ea724d\n---\n思源笔记\n---\n~~WPS~~\n---\nXPS查看器\n---\n~~Anki~~\n---\ncctalk\n---\n~~vs Code~~\n---\n~~Bookxnote Pro~~\n---\n~~Quicker~~\n---\n~~zotero~~\n---\n~~GitHub desktop~~\n---\nDrawboard PDF\n---\nOffice"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "643ab37c-ae85-40eb-8312-3d83cef3e2b0"}
 :block/parent 
 {:block/uuid #uuid "643a0de4-f75c-435d-910b-e28d6c179395"}
 :block/properties 
-{}
+{:id "643ab38e-2345-4c4b-b6aa-6ae254ea724d"}
 :block/uuid #uuid "643ab38e-2345-4c4b-b6aa-6ae254ea724d"} 
 {:block/content "重装系统的安装软件清单"
 :block/format :markdown

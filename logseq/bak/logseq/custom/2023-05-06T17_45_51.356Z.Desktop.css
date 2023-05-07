@@ -100,6 +100,30 @@ table.mytable th {
   border-width: 1px;
 }
 
-input:focus {
-  border-width: 3px;
-} 
+/* 更改选中文本颜色 */
+textarea::selection {  
+  background: rgba(0, 175, 200, 0.25);  
+}
+
+:root {
+  --caret-color-light: rgb(0, 0, 0);
+  --caret-color-dark: rgb(0, 255, 221);
+}
+
+/* 亮主题下的样式 */
+[data-theme="light"] textarea {
+  caret-color: var(--caret-color-light);
+}
+
+/* 暗主题下的样式 */
+[data-theme="dark"] textarea {
+  caret-color: var(--caret-color-dark);
+}
+
+/* Change the default size of image */
+  img {
+    border: 0px solid #ddd;
+    border-radius: 0px;
+    padding: 0px;
+    width: 690px;
+    }

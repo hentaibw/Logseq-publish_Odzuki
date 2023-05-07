@@ -79,3 +79,52 @@ sup::after {
   border-radius: 13.371px; /* 圆角半径调整为10px */
   backdrop-filter: brightness(1.173) blur(9px); /* 控制亮度（1.0为无变化），应用滤镜效果 */
 }
+
+/* 复杂表格 */
+table.mytable {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+table.mytable td {
+  text-align: center;
+  vertical-align: middle;
+  border-color: #e9ecef;
+  border-style: solid;
+  border-width: 1px;
+}
+table.mytable th {
+  text-align: center;
+  vertical-align: middle;
+  border-color: #e9ecef;
+  border-style: solid;
+  border-width: 1px;
+}
+
+/* 更改选中文本颜色 */
+textarea::selection {  
+  background: rgba(0, 175, 200, 0.25);  
+}
+
+:root {
+  --caret-color-light: rgb(0, 0, 0);
+  --caret-color-dark: rgb(0, 255, 221);
+}
+
+/* 亮主题下的样式 */
+[data-theme="light"] textarea {
+  caret-color: var(--caret-color-light);
+}
+
+/* 暗主题下的样式 */
+[data-theme="dark"] textarea {
+  caret-color: var(--caret-color-dark);
+}
+
+/* Change the default size of image */
+  img {
+    border: 0px solid #ddd;
+    border-radius: 0px;
+    padding: 0px;
+    width: 800px;
+    }
+

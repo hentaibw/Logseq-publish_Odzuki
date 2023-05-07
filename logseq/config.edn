@@ -245,7 +245,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["README" "Sticky Note" "card-group"]
+ :favorites ["Logseq" "README" "Sticky Note" "card-group" "NOW" "LATER" "DONE"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -345,6 +345,7 @@
  :feature/enable-whiteboards? true
  :ui/show-brackets? false
  :graph/settings {:builtin-pages? true, :orphan-pages? false, :excluded-pages? true, :journal? false}
+ :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

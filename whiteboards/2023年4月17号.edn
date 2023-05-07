@@ -1,4 +1,13 @@
 {:blocks (
+{:block/content "研究者们为了下游任务设计出来的一种==输入形式或模板==，它能够帮助PLM“回忆”起自己在预训练时“学习”到的东西，因此后来慢慢地被叫做Prompt了。\nid:: 643caf2f-786a-4d30-9f0a-3a041e328517"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643ca972-bae3-44a8-adf4-c5e41a23db55"}
+:block/parent 
+{:block/uuid #uuid "643ed488-083b-47b4-bc83-0d093f3dd84b"}
+:block/properties 
+{:id "643caf2f-786a-4d30-9f0a-3a041e328517"}
+:block/uuid #uuid "643caf2f-786a-4d30-9f0a-3a041e328517"} 
 {:block/content "背景信息\nid:: 643d06f2-d047-4608-b4ad-0bb3b637f5e6"
 :block/format :markdown
 :block/left 
@@ -35,7 +44,7 @@
 :block/properties 
 {:id "643d07cf-a11d-4c6d-b2b9-eb57f0bb112d"}
 :block/uuid #uuid "643d07cf-a11d-4c6d-b2b9-eb57f0bb112d"} 
-{:block/content "1.**清晰明确**：确保你的Prompt能够清是明确地表达你的需求。例如，如果你想让AI回答一个问题，记问题写得简单明了，让A!更容易理解。\nid:: 643d11ba-243d-47bd-a263-83b181510bc7\n---\n2.**提供足够的信息**：在Prompt中提供足够的背景信息和细节，以便A1能够充分了解上下文并给出合话的回答。\n---\n3.**采用适当的格式**：使用适出的语法和格式，以便！能够准确地识别你的需求。例如，如果你需要一留文章的摘要，可以先告诉AI“请为以下文章提供一个简短的摘要：”，然后附上文章内容。\n---\n4.**分步引导**：对于复奈的需求，可以尝试分步引导AI。例如，先让AI回答一个与最终目标相关的简单问题，然后根据回答逐步引导A!生成你想要的结果。\n---\n5.**尝试不同的表述**：如果你发现A!的回答不够理想。可以尝试用不同的方式表述你的Prompt,这有助于找到更适合引导Al的表述方式，\n---\n6.**循序渐进**：不要期望一开始就得到完美的结果。通过不斯尝试和调整Prompt,你将逐渐了解如何与AI进行更有效的沟通，：确保你的Prompt能够清是明确地表达你的需求。例如，如果你想让A!回答一个问题，记问题写得简单明了，让A!更容易理解。"
+{:block/content "1.**清晰明确**：确保你的Prompt能够清是明确地表达你的需求。例如，如果你想让AI回答一个问题，记问题写得简单明了，让AI更容易理解。\nid:: 643d11ba-243d-47bd-a263-83b181510bc7\n---\n2.**提供足够的信息**：在Prompt中提供足够的背景信息和细节，以便AI能够充分了解上下文并给出合话的回答。\n---\n3.**采用适当的格式**：使用适出的语法和格式，以便！能够准确地识别你的需求。例如，如果你需要一留文章的摘要，可以先告诉AI“请为以下文章提供一个简短的摘要：”，然后附上文章内容。\n---\n4.**分步引导**：对于复奈的需求，可以尝试分步引导AI。例如，先让AI回答一个与最终目标相关的简单问题，然后根据回答逐步引导A!生成你想要的结果。\n---\n5.**尝试不同的表述**：如果你发现A!的回答不够理想。可以尝试用不同的方式表述你的Prompt,这有助于找到更适合引导Al的表述方式，\n---\n6.**循序渐进**：不要期望一开始就得到完美的结果。通过不斯尝试和调整Prompt,你将逐渐了解如何与AI进行更有效的沟通，：确保你的Prompt能够清是明确地表达你的需求。例如，如果你想让A!回答一个问题，记问题写得简单明了，让A!更容易理解。"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "643d0ce9-73c3-4b26-9d09-35219c5ad54b"}
@@ -865,15 +874,6 @@
 :block/properties 
 {}
 :block/uuid #uuid "643d16ed-6850-4f02-ad15-972809568dba"} 
-{:block/content "研究者们为了下游任务设计出来的一种==输入形式或模板==，它能够帮助PLM“回忆”起自己在预训练时“学习”到的东西，因此后来慢慢地被叫做Prompt了。\nid:: 643caf2f-786a-4d30-9f0a-3a041e328517"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "643ca972-bae3-44a8-adf4-c5e41a23db55"}
-:block/parent 
-{:block/uuid #uuid "643ed488-083b-47b4-bc83-0d093f3dd84b"}
-:block/properties 
-{:id "643caf2f-786a-4d30-9f0a-3a041e328517"}
-:block/uuid #uuid "643caf2f-786a-4d30-9f0a-3a041e328517"} 
 {:block/content "[ChatGPT火爆，最全prompt工程指南登GitHub热榜，标星4.7k！ - 知乎 (zhihu.com)](https://www.zhihu.com/column/p/608495853)"
 :block/format :markdown
 :block/left 
@@ -1361,7 +1361,7 @@
 :assets []
 :shapes-index ("30d72420-dcc4-11ed-8dd2-736b10de54e1" "3ae350b0-dcc4-11ed-8dd2-736b10de54e1" "c4135f80-dcc7-11ed-b288-79106a06be51" "cd0b35e2-dcc7-11ed-b288-79106a06be51" "b8a99890-dce4-11ed-a11a-75ef5c4e1de7" "1355e8e0-dcfc-11ed-804e-8dbaa6edb88f" "96991ec0-dcfc-11ed-804e-8dbaa6edb88f" "a27a0b50-dcfc-11ed-804e-8dbaa6edb88f" "ae34b5c0-dcfd-11ed-804e-8dbaa6edb88f" "b9248b90-dcfd-11ed-804e-8dbaa6edb88f" "26c015c2-dcfe-11ed-804e-8dbaa6edb88f" "a1564470-dcff-11ed-804e-8dbaa6edb88f" "b57c3222-dcff-11ed-804e-8dbaa6edb88f" "b7c510b2-dcff-11ed-804e-8dbaa6edb88f" "8030d370-dd02-11ed-804e-8dbaa6edb88f" "e66d0192-dd02-11ed-804e-8dbaa6edb88f" "47098502-dd03-11ed-804e-8dbaa6edb88f" "de210622-dd03-11ed-804e-8dbaa6edb88f" "9a0383d0-dd05-11ed-804e-8dbaa6edb88f" "a0a44ad2-dd05-11ed-804e-8dbaa6edb88f" "c83317c2-dd05-11ed-804e-8dbaa6edb88f" "2af6c0f0-dd06-11ed-804e-8dbaa6edb88f" "30e0bb12-dd06-11ed-804e-8dbaa6edb88f" "32198932-dd06-11ed-804e-8dbaa6edb88f" "5d108760-dd06-11ed-804e-8dbaa6edb88f" "73ad4172-dd06-11ed-804e-8dbaa6edb88f" "de06c000-dd06-11ed-804e-8dbaa6edb88f" "f42aeeb0-dd06-11ed-804e-8dbaa6edb88f")}}
 :block/journal? false
-:block/updated-at 1682056226262
+:block/updated-at 1683451521580
 :block/created-at 1681696684726
 :block/type "whiteboard"
 :block/name "2023年4月17号"

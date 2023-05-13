@@ -1,0 +1,123 @@
+/*隐藏#card标签*/
+a.tag[data-ref="card" i] {   /*隐藏原标签，除双引号内的内容，其他可以不修改*/
+  visibility: hidden;
+  width: 0px;              /*由于软件版本不同，可适当删除个别参数，或修改数值调整*/
+  font-size: 0px;
+  white-space: nowrap;
+}
+
+
+/*改变logseq 默认字体*/
+#root>div,
+html,
+body {
+  font-family: MiSans Medium;
+  font-size: 16px;
+  line-height: ;
+}
+
+/*为 logseq 脚注改变样式*/
+sup::before {
+  content: "["; 
+  display: inline-block; 
+  vertical-align: middle; 
+  margin-right: 3px; 
+  line-height: 13px;
+  font-weight: bold;
+  color: #fe9886 /* 色号 */
+}
+sup::after {
+  content: "]"; 
+  display: inline-block; 
+  vertical-align: middle;
+  margin-left: 3px; 
+  line-height: 13px;
+  font-weight: bold;
+  color: #fe9886 /* 色号 */
+}
+
+/* 给多级标题添加后缀 */
+.ls-block h1::after {
+  content: "h1";
+}
+
+.ls-block h2::after {
+  content: "h2";
+}
+
+.ls-block h3::after {
+  content: "h3";
+}
+
+.ls-block h4::after {
+  content: "h4";
+}
+
+.ls-block :is(h1, h2, h3, h4, h5)::after {
+  margin-left: 0.5rem;
+  font-size: 0.6rem;
+  vertical-align: middle;
+  opacity: 0.3;
+}
+
+/* 编辑块的时候增肌方框效果 */
+.editor-inner {
+  border: 0px solid rgba(57, 197, 188, 0.1); /* 控制线宽，需要线框改为`solid`，不需要为`none`*/
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.3); /* 将阴影偏移，透明度设为0.2 */
+  border-radius: 13.371px; /* 圆角半径调整为10px */
+  background-color: rgba(255, 255, 255, 0.069); /* 添加一个背景颜色，使方框更为明显 */ 
+}
+
+/* 复杂表格样式 */
+table.mytable {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+table.mytable td {
+  text-align: center;
+  vertical-align: middle;
+  border-color: #e9ecef;
+  border-style: solid;
+  border-width: 1px;
+}
+table.mytable th {
+  text-align: center;
+  vertical-align: middle;
+  border-color: #e9ecef;
+  border-style: solid;
+  border-width: 1px;
+}
+
+/* 更改选中文本颜色 */
+textarea::selection {  
+  background: rgba(0, 175, 200, 0.25);  
+}
+
+:root {
+  --caret-color-light: rgb(0, 0, 0);
+  --caret-color-dark: rgb(0, 255, 221);
+}
+
+/* 亮主题下的样式 */
+[data-theme="light"] textarea {
+  caret-color: var(--caret-color-light);
+}
+
+/* 暗主题下的样式 */
+[data-theme="dark"] textarea {
+  caret-color: var(--caret-color-dark);
+}
+
+/* Change the default size of image */
+  img {
+    border: 0px solid #ddd;
+    border-radius: 0px;
+    padding: 0px;
+    width: 800px;
+    }
+
+

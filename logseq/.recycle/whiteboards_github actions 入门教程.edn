@@ -1,0 +1,66 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"}
+:block/parent 
+{:block/uuid #uuid "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"}
+:block/properties 
+{}
+:block/uuid #uuid "645c7d0f-9046-4268-b51c-f524826f5a70"} 
+{:block/content "id:: 645c7d18-1216-412f-b9fc-460ce5a53c77\n"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645c7d0f-9046-4268-b51c-f524826f5a70"}
+:block/parent 
+{:block/uuid #uuid "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"}
+:block/properties 
+{:id "645c7d18-1216-412f-b9fc-460ce5a53c77"}
+:block/uuid #uuid "645c7d18-1216-412f-b9fc-460ce5a53c77"} 
+{:block/content "[:u \"GitHubActions是GitHub的持续集成服务\"]\nurl:: [**📌 001**](bookxnotepro://opennote/?nb={5dabdc53-11ec-4fea-b266-41f04fdd02d0}&book=d41a5132a2dfb4c4669e3668f3c38769&page=0&x=177&y=242&id=8&uuid=38c7f1a24c2691d4bf6b445721eddc97)\nid:: 645c7d39-f66f-4776-8dd7-88d1fb2efda7"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645c7d18-1216-412f-b9fc-460ce5a53c77"}
+:block/parent 
+{:block/uuid #uuid "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"}
+:block/properties 
+{:url "[**📌 001**](bookxnotepro://opennote/?nb={5dabdc53-11ec-4fea-b266-41f04fdd02d0}&book=d41a5132a2dfb4c4669e3668f3c38769&page=0&x=177&y=242&id=8&uuid=38c7f1a24c2691d4bf6b445721eddc97)"
+:id "645c7d39-f66f-4776-8dd7-88d1fb2efda7"}
+:block/uuid #uuid "645c7d39-f66f-4776-8dd7-88d1fb2efda7"} 
+{:block/content "[:u \"持续集成由很多操作组成，比如抓取代码、运行测试、登录远程服务器，发布到第三方服务等等。GitHub把这些操作就称为actions\"]\nurl:: [**📌 001**](bookxnotepro://opennote/?nb={5dabdc53-11ec-4fea-b266-41f04fdd02d0}&book=d41a5132a2dfb4c4669e3668f3c38769&page=0&x=294&y=618&id=1&uuid=cca7c155b3781c053b06e16e341837cf)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645c7d39-f66f-4776-8dd7-88d1fb2efda7"}
+:block/parent 
+{:block/uuid #uuid "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"}
+:block/properties 
+{:url "[**📌 001**](bookxnotepro://opennote/?nb={5dabdc53-11ec-4fea-b266-41f04fdd02d0}&book=d41a5132a2dfb4c4669e3668f3c38769&page=0&x=294&y=618&id=1&uuid=cca7c155b3781c053b06e16e341837cf)"}
+:block/uuid #uuid "645c7d85-0e64-4c12-8d1c-b099ea682712"} 
+{:block/content "[:u \"允许开发者把每个操作写成独立的脚本文件，存放到代码仓库，使得其他开发者可以引用\"]\nurl:: [**📌 001**](bookxnotepro://opennote/?nb={5dabdc53-11ec-4fea-b266-41f04fdd02d0}&book=d41a5132a2dfb4c4669e3668f3c38769&page=0&x=294&y=677&id=2&uuid=f3b9a8c0dfd09872b0ca12852faabe29)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645c7d85-0e64-4c12-8d1c-b099ea682712"}
+:block/parent 
+{:block/uuid #uuid "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"}
+:block/properties 
+{:url "[**📌 001**](bookxnotepro://opennote/?nb={5dabdc53-11ec-4fea-b266-41f04fdd02d0}&book=d41a5132a2dfb4c4669e3668f3c38769&page=0&x=294&y=677&id=2&uuid=f3b9a8c0dfd09872b0ca12852faabe29)"}
+:block/uuid #uuid "645c7d9d-796c-40cd-8bc8-7001ff1e963d"})
+:pages (
+{:block/uuid #uuid "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "645c7ccc-d224-4ee3-a3ca-dcec2bd12ca3"
+:name "github actions 入门教程"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ()}}
+:block/journal? false
+:block/updated-at 1683877068842
+:block/created-at 1683782860460
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "github actions 入门教程"
+:block/original-name "github actions 入门教程"})}

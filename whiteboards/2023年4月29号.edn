@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1683222552790
+{:block/created-at 1683741005857
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -19,8 +19,8 @@
 :parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
 :nonce 1682565306557
 :isComplete true}}
-:block/updated-at 1683222552790} 
-{:block/created-at 1683222552790
+:block/updated-at 1683741005857} 
+{:block/created-at 1683741005858
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -40,8 +40,8 @@
 :parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
 :nonce 1682565417232
 :isComplete false}}
-:block/updated-at 1683222552790} 
-{:block/created-at 1683222552790
+:block/updated-at 1683741005858} 
+{:block/created-at 1683741005857
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -61,8 +61,8 @@
 :parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
 :nonce 1682565306517
 :isComplete false}}
-:block/updated-at 1683222552790} 
-{:block/created-at 1683222552790
+:block/updated-at 1683741005857} 
+{:block/created-at 1683741005857
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -77,8 +77,8 @@
 :point [1554.623358755116 470.02392578125]
 :parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
 :nonce 1682509942926}}
-:block/updated-at 1683222552790} 
-{:block/created-at 1683222552790
+:block/updated-at 1683741005857} 
+{:block/created-at 1683741005857
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -93,7 +93,7 @@
 :point [196.02001953125 470.02392578125]
 :parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
 :nonce 1682509934274}}
-:block/updated-at 1683222552790} 
+:block/updated-at 1683741005857} 
 {:block/content "![Boxcutter操作流程与技巧.jpg](file://D:\\Odzuki_File\\Project\\Blender自学基础教程2.0\\Assets\\6.物体的加减——布尔运算-2\\Boxcutter操作流程与技巧.jpg)"
 :block/format :markdown
 :block/left 
@@ -101,7 +101,7 @@
 :block/parent 
 {:block/uuid #uuid "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"}
 :block/uuid #uuid "644bff48-6d0a-4c32-90b1-9901c31fa875"} 
-{:block/created-at 1683222552790
+{:block/created-at 1683741005858
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -118,7 +118,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [1322.5767005053206 54.981412737585885]
+:size [1322.5767005053206 571.4952087402344]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -128,8 +128,15 @@
 :point [-1172.8496494017668 5493.575327324076]
 :parentId "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
 :collapsedHeight 0
-:nonce 1682702153444}}
-:block/updated-at 1683222552790})
+:nonce 1682702153450}}
+:block/updated-at 1683741005858} 
+{:block/content "C:/Users/Odzuki/Downloads/4.1.2%E3%80%80绘制钢柱%20GZ1%20-%20基于%20BIM%20的%20Tekla%20钢结构设计案例教程%20-%20知乎书店%20(2023_5_11%2001_48_36).html"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "644bff48-6d0a-4c32-90b1-9901c31fa875"}
+:block/parent 
+{:block/uuid #uuid "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"}
+:block/uuid #uuid "645bd8fb-0002-46a2-9b66-a59877a5bcf5"})
 :pages (
 {:block/uuid #uuid "6449766f-a8ec-46ef-bb0b-ad8b2e2dfd8c"
 :block/properties 
@@ -142,7 +149,7 @@
 :nonce 1
 :assets []
 :shapes-index ("96c49990-e465-11ed-8b67-e5670d558417" "96c49991-e465-11ed-8b67-e5670d558417" "b5915540-e4a9-11ed-963c-51dddf5beff9" "b59748b0-e4a9-11ed-963c-51dddf5beff9" "f78f19f0-e4a9-11ed-963c-51dddf5beff9" "5466ccb0-e5e8-11ed-a4bb-a117bd9d44d2")}}
-:block/updated-at 1683222552790
+:block/updated-at 1683741005857
 :block/created-at 1682536047117
 :block/type "whiteboard"
 :block/name "2023年4月29号"

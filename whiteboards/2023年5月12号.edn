@@ -1,0 +1,570 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/properties 
+{}
+:block/uuid #uuid "645dedca-c58f-4ddd-92bc-6627c0c3569a"} 
+{:block/content "id:: 645deef1-624a-459e-a61c-a143ab5aa25f\n``` JSON\n\"wrap-code\": {\n    \"label\": \"Inline code\",\n    \"binding\": \"\",\n    \"template\": \"`$^`\",\n    \"icon\": \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\"><text stroke=\\\"#000\\\" stroke-width=\\\"0\\\" x=\\\"6\\\" y=\\\"22\\\" font-size=\\\"24\\\" font-family=\\\"Noto Sans JP\\\" xml:space=\\\"preserve\\\" fill=\\\"#eee\\\">`</text></svg>\"\n  },\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645dedca-c58f-4ddd-92bc-6627c0c3569a"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/properties 
+{:id "645deef1-624a-459e-a61c-a143ab5aa25f"}
+:block/uuid #uuid "645deef1-624a-459e-a61c-a143ab5aa25f"} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "645deef1-624a-459e-a61c-a143ab5aa25f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [625.7094528352513 248.12016347429145]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2b773a90-f099-11ed-9d20-89367c429154"
+:noFill false
+:point [631.6608217097371 421.86015419293307]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:collapsedHeight 0
+:nonce 1683877617162}}
+:block/updated-at 1683916637388} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "70c71070-f099-11ed-9d20-89367c429154"
+:noFill true
+:point [1132.016845703125 560.702392578125]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:nonce 1683877733114
+:isComplete true}}
+:block/updated-at 1683916637388} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "71c630f0-f099-11ed-9d20-89367c429154"
+:noFill true
+:point [967.6424581204443 580.3157923681079]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:nonce 1683877734785
+:isComplete true}}
+:block/updated-at 1683916637388} 
+{:block/created-at 1683916637387
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "723ce790-f099-11ed-9d20-89367c429154"
+:noFill true
+:point [1148.5286229093558 616.8781362466407]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:nonce 1683877735564
+:isComplete true}}
+:block/updated-at 1683916637387} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "72700580-f099-11ed-9d20-89367c429154"
+:noFill true
+:point [1050.7916504494074 655.8565598838496]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:nonce 1683877735899
+:isComplete true}}
+:block/updated-at 1683916637388} 
+{:block/content "id:: 645df4a5-9f8d-46d6-aa4f-82b856096816\n``` JSON\n\"repl-clear\": {\n    \"label\": \"Remove formatting\",\n    \"binding\": \"ctrl+shift+x\",\n    \"regex\": \"\\\\[\\\\[(?:#|\\\\$)(?:red|green|blue|cloze)\\\\]\\\\]|==([^=]*)==|~~([^~]*)~~|\\\\^\\\\^([^\\\\^]*)\\\\^\\\\^|\\\\*\\\\*([^\\\\*]*)\\\\*\\\\*|\\\\*([^\\\\*]*)\\\\*|_([^_]*)_|\\\\$([^\\\\$]*)\\\\$|`([^`]*)`|\\\\[([^\\\\]]*)\\\\]\\\\([^\\\\]]*\\\\)\",\n    \"replacement\": \"$1$2$3$4$5$6$7$8$9\",\n    \"icon\": \"<svg t=\\\"1643381967522\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"1377\\\" width=\\\"200\\\" height=\\\"200\\\"><path d=\\\"M824.4 438.8c0-37.6-30-67.6-67.6-67.6l-135.2 0L621.6 104.8c0-37.6-30-67.6-67.6-67.6-37.6 0-67.6 30-67.6 67.6l0 266.4L358.8 371.2c-37.6 0-67.6 30-67.6 67.6l0 67.6L828 506.4l0-67.6L824.4 438.8 824.4 438.8zM824.4 574c-11.2 0-536.8 0-536.8 0S250 972 88.4 972L280 972c75.2 0 108.8-217.6 108.8-217.6s33.6 195.2 3.6 217.6l105.2 0c-3.6 0 0 0 11.2 0 52.4-7.6 60-247.6 60-247.6s52.4 244 45.2 244c-26.4 0-78.8 0-105.2 0l0 0 154 0c-7.6 0 0 0 11.2 0 48.8-11.2 52.4-187.6 52.4-187.6s22.4 187.6 15.2 187.6c-18.8 0-48.8 0-67.6 0l-3.6 0 90 0C895.6 972 903.2 784.4 824.4 574L824.4 574z\\\" p-id=\\\"1378\\\" fill=\\\"#eeeeee\\\"></path></svg>\"\n  }\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645deef1-624a-459e-a61c-a143ab5aa25f"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/properties 
+{:id "645df4a5-9f8d-46d6-aa4f-82b856096816"}
+:block/uuid #uuid "645df4a5-9f8d-46d6-aa4f-82b856096816"} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "645df4a5-9f8d-46d6-aa4f-82b856096816"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [628.2915505326318 526.4316808083901]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "915f26d0-f09c-11ed-8b66-95b0626d1b18"
+:noFill false
+:point [627.7929191699598 719.4261677959241]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:collapsedHeight 0
+:nonce 1683879076562}}
+:block/updated-at 1683916637388} 
+{:block/content "\"repl-clear\": {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"} 
+{:block/content "\"label\": \"Remove formatting\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/parent 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/uuid #uuid "c0b938d2-010a-456f-8e1b-92691e9c9608"} 
+{:block/content "\"binding\": \"ctrl+shift+x\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "c0b938d2-010a-456f-8e1b-92691e9c9608"}
+:block/parent 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/uuid #uuid "3dfa18e0-64a1-4888-8ecd-334737997984"} 
+{:block/content "\"regex\": \"\\\\[\\\\[(?:#|\\\\$)(?:red|green|blue|cloze)\\\\]\\\\]|==([^=]*)==|~~([^~]*)~~|\\\\^\\\\^([^\\\\^]*)\\\\^\\\\^|\\\\*\\\\*([^\\\\*]*)\\\\*\\\\*|\\\\*([^\\\\*]*)\\\\*|_([^_]*)_|\\\\$([^\\\\$]*)\\\\$|`([^`]*)`|\\\\[([^\\\\]]*)\\\\]\\\\([^\\\\]]*\\\\)\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "3dfa18e0-64a1-4888-8ecd-334737997984"}
+:block/parent 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/uuid #uuid "9f2f279f-31e6-417e-9ad6-1e0efc3c132e"} 
+{:block/content "\"replacement\": \"$1$2$3$4$5$6$7$8$9\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "9f2f279f-31e6-417e-9ad6-1e0efc3c132e"}
+:block/parent 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/uuid #uuid "6cb1c0c2-e161-45f0-86d1-32d54cfab3fd"} 
+{:block/content "\"icon\": \"<svg t=\\\"1643381967522\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"1377\\\" width=\\\"200\\\" height=\\\"200\\\"><path d=\\\"M824.4 438.8c0-37.6-30-67.6-67.6-67.6l-135.2 0L621.6 104.8c0-37.6-30-67.6-67.6-67.6-37.6 0-67.6 30-67.6 67.6l0 266.4L358.8 371.2c-37.6 0-67.6 30-67.6 67.6l0 67.6L828 506.4l0-67.6L824.4 438.8 824.4 438.8zM824.4 574c-11.2 0-536.8 0-536.8 0S250 972 88.4 972L280 972c75.2 0 108.8-217.6 108.8-217.6s33.6 195.2 3.6 217.6l105.2 0c-3.6 0 0 0 11.2 0 52.4-7.6 60-247.6 60-247.6s52.4 244 45.2 244c-26.4 0-78.8 0-105.2 0l0 0 154 0c-7.6 0 0 0 11.2 0 48.8-11.2 52.4-187.6 52.4-187.6s22.4 187.6 15.2 187.6c-18.8 0-48.8 0-67.6 0l-3.6 0 90 0C895.6 972 903.2 784.4 824.4 574L824.4 574z\\\" p-id=\\\"1378\\\" fill=\\\"#eeeeee\\\"></path></svg>\""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6cb1c0c2-e161-45f0-86d1-32d54cfab3fd"}
+:block/parent 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/uuid #uuid "042ffa0c-9d66-426f-a48b-2c0ce0e4f53c"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "042ffa0c-9d66-426f-a48b-2c0ce0e4f53c"}
+:block/parent 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/uuid #uuid "f49d4825-b060-4635-85ab-ef18893b9161"} 
+{:block/content "\"repl-clear\": {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"} 
+{:block/content "\"label\": \"Remove formatting\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/parent 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/uuid #uuid "ef94e172-292c-4719-a3a2-42ffb275f31f"} 
+{:block/content "\"binding\": \"ctrl+shift+x\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "ef94e172-292c-4719-a3a2-42ffb275f31f"}
+:block/parent 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/uuid #uuid "ef543cd0-aeff-461e-8103-6deaf528dca9"} 
+{:block/content "\"regex\": \"\\\\[\\\\[(?:#|\\\\$)(?:red|green|blue|cloze)\\\\]\\\\]|==([^=]*)==|~~([^~]*)~~|\\\\^\\\\^([^\\\\^]*)\\\\^\\\\^|\\\\*\\\\*([^\\\\*]*)\\\\*\\\\*|\\\\*([^\\\\*]*)\\\\*|_([^_]*)_|\\\\$([^\\\\$]*)\\\\$|`([^`]*)`|\\\\[([^\\\\]]*)\\\\]\\\\([^\\\\]]*\\\\)\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "ef543cd0-aeff-461e-8103-6deaf528dca9"}
+:block/parent 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/uuid #uuid "08f3aea7-6ab4-43fd-b64d-159a0afd956b"} 
+{:block/content "\"replacement\": \"$1$2$3$4$5$6$7$8$9\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "08f3aea7-6ab4-43fd-b64d-159a0afd956b"}
+:block/parent 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/uuid #uuid "b245fa43-6fd3-4c5a-a711-cdaa82114af0"} 
+{:block/content "\"icon\": \"<svg t=\\\"1643381967522\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"1377\\\" width=\\\"200\\\" height=\\\"200\\\"><path d=\\\"M824.4 438.8c0-37.6-30-67.6-67.6-67.6l-135.2 0L621.6 104.8c0-37.6-30-67.6-67.6-67.6-37.6 0-67.6 30-67.6 67.6l0 266.4L358.8 371.2c-37.6 0-67.6 30-67.6 67.6l0 67.6L828 506.4l0-67.6L824.4 438.8 824.4 438.8zM824.4 574c-11.2 0-536.8 0-536.8 0S250 972 88.4 972L280 972c75.2 0 108.8-217.6 108.8-217.6s33.6 195.2 3.6 217.6l105.2 0c-3.6 0 0 0 11.2 0 52.4-7.6 60-247.6 60-247.6s52.4 244 45.2 244c-26.4 0-78.8 0-105.2 0l0 0 154 0c-7.6 0 0 0 11.2 0 48.8-11.2 52.4-187.6 52.4-187.6s22.4 187.6 15.2 187.6c-18.8 0-48.8 0-67.6 0l-3.6 0 90 0C895.6 972 903.2 784.4 824.4 574L824.4 574z\\\" p-id=\\\"1378\\\" fill=\\\"#eeeeee\\\"></path></svg>\""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "b245fa43-6fd3-4c5a-a711-cdaa82114af0"}
+:block/parent 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/uuid #uuid "90ba42f0-1b6c-4d46-a28d-2a19d5ecb7de"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "90ba42f0-1b6c-4d46-a28d-2a19d5ecb7de"}
+:block/parent 
+{:block/uuid #uuid "969fddcc-e745-4fcb-a7dc-aeb4f5ae3804"}
+:block/uuid #uuid "db7365cf-df40-40e3-858d-df5b433802fd"} 
+{:block/content "\"repl-clear\": {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"} 
+{:block/content "\"label\": \"Remove formatting\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/parent 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/uuid #uuid "0f4813db-916a-4e93-b4bd-26d65e93e3b5"} 
+{:block/content "\"binding\": \"ctrl+shift+x\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "0f4813db-916a-4e93-b4bd-26d65e93e3b5"}
+:block/parent 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/uuid #uuid "4bb035d7-8313-43c5-b2e0-1efc24774ad7"} 
+{:block/content "\"regex\": \"\\\\[\\\\[(?:#|\\\\$)(?:red|green|blue|cloze)\\\\]\\\\]|==([^=]*)==|~~([^~]*)~~|\\\\^\\\\^([^\\\\^]*)\\\\^\\\\^|\\\\*\\\\*([^\\\\*]*)\\\\*\\\\*|\\\\*([^\\\\*]*)\\\\*|_([^_]*)_|\\\\$([^\\\\$]*)\\\\$|`([^`]*)`|\\\\[([^\\\\]]*)\\\\]\\\\([^\\\\]]*\\\\)\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "4bb035d7-8313-43c5-b2e0-1efc24774ad7"}
+:block/parent 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/uuid #uuid "77bcac46-89b8-4f3b-a22c-7d60161c1bf7"} 
+{:block/content "\"replacement\": \"$1$2$3$4$5$6$7$8$9\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "77bcac46-89b8-4f3b-a22c-7d60161c1bf7"}
+:block/parent 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/uuid #uuid "5bb32fd7-b9e0-4573-ad28-ab235cde29e8"} 
+{:block/content "\"icon\": \"<svg t=\\\"1643381967522\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"1377\\\" width=\\\"200\\\" height=\\\"200\\\"><path d=\\\"M824.4 438.8c0-37.6-30-67.6-67.6-67.6l-135.2 0L621.6 104.8c0-37.6-30-67.6-67.6-67.6-37.6 0-67.6 30-67.6 67.6l0 266.4L358.8 371.2c-37.6 0-67.6 30-67.6 67.6l0 67.6L828 506.4l0-67.6L824.4 438.8 824.4 438.8zM824.4 574c-11.2 0-536.8 0-536.8 0S250 972 88.4 972L280 972c75.2 0 108.8-217.6 108.8-217.6s33.6 195.2 3.6 217.6l105.2 0c-3.6 0 0 0 11.2 0 52.4-7.6 60-247.6 60-247.6s52.4 244 45.2 244c-26.4 0-78.8 0-105.2 0l0 0 154 0c-7.6 0 0 0 11.2 0 48.8-11.2 52.4-187.6 52.4-187.6s22.4 187.6 15.2 187.6c-18.8 0-48.8 0-67.6 0l-3.6 0 90 0C895.6 972 903.2 784.4 824.4 574L824.4 574z\\\" p-id=\\\"1378\\\" fill=\\\"#eeeeee\\\"></path></svg>\""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "5bb32fd7-b9e0-4573-ad28-ab235cde29e8"}
+:block/parent 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/uuid #uuid "3ff9be32-50cc-45c9-b2bd-43e252efb498"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "3ff9be32-50cc-45c9-b2bd-43e252efb498"}
+:block/parent 
+{:block/uuid #uuid "5e464062-8a3c-4cf3-8ec9-8122386f0e6d"}
+:block/uuid #uuid "4308eb4b-69ac-4b31-b95a-702ef83ca41d"} 
+{:block/content "\"repl-clear\": {"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645df4a5-9f8d-46d6-aa4f-82b856096816"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"} 
+{:block/content "\"label\": \"Remove formatting\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/parent 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/uuid #uuid "d4b552f8-eb45-4fd0-8941-ad804ed177b5"} 
+{:block/content "\"binding\": \"ctrl+shift+x\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "d4b552f8-eb45-4fd0-8941-ad804ed177b5"}
+:block/parent 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/uuid #uuid "1f8c0876-3540-4c4c-b526-8a75f0bc8763"} 
+{:block/content "\"regex\": \"\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "1f8c0876-3540-4c4c-b526-8a75f0bc8763"}
+:block/parent 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/uuid #uuid "b34000b9-b3be-4356-b692-2cb9a0f2583f"} 
+{:block/content "\"replacement\": \"$1$2$3$4$5$6$7$8$9\","
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "b34000b9-b3be-4356-b692-2cb9a0f2583f"}
+:block/parent 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/uuid #uuid "77f046d2-e6dd-40c0-b6eb-b64cd5c872e1"} 
+{:block/content "\"icon\": \"<svg t=\\\"1643381967522\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"1377\\\" width=\\\"200\\\" height=\\\"200\\\"><path d=\\\"M824.4 438.8c0-37.6-30-67.6-67.6-67.6l-135.2 0L621.6 104.8c0-37.6-30-67.6-67.6-67.6-37.6 0-67.6 30-67.6 67.6l0 266.4L358.8 371.2c-37.6 0-67.6 30-67.6 67.6l0 67.6L828 506.4l0-67.6L824.4 438.8 824.4 438.8zM824.4 574c-11.2 0-536.8 0-536.8 0S250 972 88.4 972L280 972c75.2 0 108.8-217.6 108.8-217.6s33.6 195.2 3.6 217.6l105.2 0c-3.6 0 0 0 11.2 0 52.4-7.6 60-247.6 60-247.6s52.4 244 45.2 244c-26.4 0-78.8 0-105.2 0l0 0 154 0c-7.6 0 0 0 11.2 0 48.8-11.2 52.4-187.6 52.4-187.6s22.4 187.6 15.2 187.6c-18.8 0-48.8 0-67.6 0l-3.6 0 90 0C895.6 972 903.2 784.4 824.4 574L824.4 574z\\\" p-id=\\\"1378\\\" fill=\\\"#eeeeee\\\"></path></svg>\""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "77f046d2-e6dd-40c0-b6eb-b64cd5c872e1"}
+:block/parent 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/uuid #uuid "ca14ac08-922d-4ec1-9713-e759c5ed35fa"} 
+{:block/content "}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "ca14ac08-922d-4ec1-9713-e759c5ed35fa"}
+:block/parent 
+{:block/uuid #uuid "ea556250-8b99-4f58-b9a6-5aabed7f5d93"}
+:block/uuid #uuid "4dd45079-3681-43c7-a515-d4685205f122"} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "766e42f0-f09e-11ed-8b66-95b0626d1b18"
+:noFill true
+:point [1292.7074298711204 1242.5499220138493]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:nonce 1683879890081
+:isComplete true}}
+:block/updated-at 1683916637388} 
+{:block/content "id:: 645dfcf9-bbdc-4f50-9ba3-64275096d7b8\n``` JSON\n\"group-ref\": {\n    \"wrap-pageref\": {\n      \"label\": \"Page ref\",\n      \"binding\": \"\",\n      \"template\": \"[[$^]]\",\n      \"icon\": \"<svg t=\\\"1648603043979\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"3931\\\" width=\\\"200\\\" height=\\\"200\\\"><path d=\\\"M431.488 205.824c20.48 0 37.12-17.408 37.12-38.912A38.08 38.08 0 0 0 431.552 128H357.12C336.64 128 320 145.408 320 166.912v635.328c0 21.504 16.64 38.912 37.12 38.912h74.368c20.48 0 37.12-17.408 37.12-38.912a38.08 38.08 0 0 0-37.12-38.912h-37.12V205.824h37.12zM687.488 205.824c20.48 0 37.12-17.408 37.12-38.912a38.08 38.08 0 0 0-37.12-38.912H613.12C592.64 128 576 145.408 576 166.912v635.328c0 21.504 16.64 38.912 37.12 38.912h74.368c20.48 0 37.12-17.408 37.12-38.912a38.08 38.08 0 0 0-37.12-38.912h-37.12V205.824h37.12z\\\" fill=\\\"#eee\\\" p-id=\\\"3932\\\"></path></svg>\"\n    },\n    \"wrap-link\": {\n      \"label\": \"Link\",\n      \"binding\": \"\",\n      \"template\": \"[$^]()\",\n      \"icon\": \"<svg t=\\\"1682390611487\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"2024\\\" width=\\\"200\\\" height=\\\"200\\\"><path d=\\\"M574 665.4c-3.1-3.1-8.2-3.1-11.3 0L446.5 781.6c-53.8 53.8-144.6 59.5-204 0-59.5-59.5-53.8-150.2 0-204l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3l-39.8-39.8c-3.1-3.1-8.2-3.1-11.3 0L191.4 526.5c-84.6 84.6-84.6 221.5 0 306s221.5 84.6 306 0l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3L574 665.4zM832.6 191.4c-84.6-84.6-221.5-84.6-306 0L410.3 307.6c-3.1 3.1-3.1 8.2 0 11.3l39.7 39.7c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c53.8-53.8 144.6-59.5 204 0 59.5 59.5 53.8 150.2 0 204L665.3 562.6c-3.1 3.1-3.1 8.2 0 11.3l39.8 39.8c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c84.5-84.6 84.5-221.5 0-306.1z\\\" p-id=\\\"2025\\\" fill=\\\"#eeeeee\\\"></path><path d=\\\"M610.1 372.3c-3.1-3.1-8.2-3.1-11.3 0L372.3 598.7c-3.1 3.1-3.1 8.2 0 11.3l39.6 39.6c3.1 3.1 8.2 3.1 11.3 0l226.4-226.4c3.1-3.1 3.1-8.2 0-11.3l-39.5-39.6z\\\" p-id=\\\"2026\\\" fill=\\\"#eeeeee\\\"></path></svg>\"\n    }\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "a1635cba-32da-4fd9-ac18-3a804165a6b8"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/properties 
+{:id "645dfcf9-bbdc-4f50-9ba3-64275096d7b8"}
+:block/uuid #uuid "645dfcf9-bbdc-4f50-9ba3-64275096d7b8"} 
+{:block/created-at 1683916637387
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "645dfcf9-bbdc-4f50-9ba3-64275096d7b8"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [630.8877308806818 897.5137968961923]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "884c5c20-f0a1-11ed-8b66-95b0626d1b18"
+:noFill false
+:point [631.2039398094439 1276.5668052190492]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:collapsedHeight 0
+:nonce 1683881208745}}
+:block/updated-at 1683916637387} 
+{:block/content "当你使用正则表达式进行匹配时，可以使用括号来指定一个或多个子表达式。这些子表达式被称为捕获组，可以用来捕获匹配的文本。每个捕获组都被分配一个唯一的编号，从 1 开始依次递增。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645dfcf9-bbdc-4f50-9ba3-64275096d7b8"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/properties 
+{}
+:block/uuid #uuid "645dfe53-3930-4ba8-9f9a-b93e1ee9a399"} 
+{:block/content "![image.png](../assets/image_1683883488309_0.png)\nid:: 645e05df-c6ec-4ca3-a458-103d04b8ccbb"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645dfe53-3930-4ba8-9f9a-b93e1ee9a399"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/properties 
+{:id "645e05df-c6ec-4ca3-a458-103d04b8ccbb"}
+:block/uuid #uuid "645e05df-c6ec-4ca3-a458-103d04b8ccbb"} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "645e05df-c6ec-4ca3-a458-103d04b8ccbb"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 401.0070838406321]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d6051c90-f0a6-11ed-81c6-77aa844dcae7"
+:noFill false
+:point [1438.2366721559379 427.1338312775506]
+:parentId "645deced-a662-4944-b504-7e6281be65a9"
+:collapsedHeight 0
+:nonce 1683883486488}}
+:block/updated-at 1683916637388} 
+{:block/content "当你使用正则表达式进行匹配时，可以使用括号来指定一个或多个子表达式。这些子表达式被称为捕获组，可以用来捕获匹配的文本。每个捕获组都被分配一个唯一的编号，从 1 开始依次递增。\nid:: 645e09e7-9859-4e9d-a06b-4ac97983522d\n#+BEGIN_EXAMPLE\n假设你有一个包含电话号码的字符串，你想从该字符串中提取国家代码、区号和号码。你可以使用正则表达式来匹配这些部分，并使用捕获组来提取它们。以下是一个匹配美国电话号码的正则表达式的示例：1-\\(([0-9]{3})\\)-([0-9]{3}-[0-9]{4})\n#+END_EXAMPLE\n这个正则表达式利用了两个捕获组。第一个捕获组匹配区号，使用了一个包含 `[0-9]{3}` 的子表达式来匹配三个数字。第二个捕获组匹配号码，使用了一个包含 `[0-9]{3}-[0-9]{4}` 的子表达式来匹配一个三位数的号码和一个四位数的号码。\n当你在一个字符串上执行这个正则表达式时，它会匹配格式为 \"1-(XXX)-XXX-XXXX\" 的电话号码，并将区号和号码分别存储在第一个和第二个捕获组中。\n#+BEGIN_EXAMPLE\n例如，如果你有一个电话号码字符串为 \"1-(650)-555-1234\"，你可以使用以下代码来提取区号和号码\n```\nconst phoneNumber = \"1-(650)-555-1234\";\nconst regex = /1-\\(([0-9]{3})\\)-([0-9]{3}-[0-9]{4})/;\nconst match = regex.exec(phoneNumber);\nconst areaCode = match[1];\nconst number = match[2];\nconsole.log(areaCode); // 输出 \"650\"\nconsole.log(number); // 输出 \"555-1234\"\n```\n#+END_EXAMPLE\n在这个示例中，`match[1]` 对应于第一个捕获组中的文本，即区号，`match[2]` 对应于第二个捕获组中的文本，即号码。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645e05df-c6ec-4ca3-a458-103d04b8ccbb"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/properties 
+{:id "645e09e7-9859-4e9d-a06b-4ac97983522d"}
+:block/uuid #uuid "645e09e7-9859-4e9d-a06b-4ac97983522d"} 
+{:block/created-at 1683916637388
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "645e09e7-9859-4e9d-a06b-4ac97983522d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 897.6373291015625]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3ce91180-f0a9-11ed-b8c5-bb1a5cd3bd79"
+:noFill false
+:point [1944.401460389733 410.5532541941159]
+:parentId "645e09d2-c78e-49c7-8fb2-1d90a2ffe8a4"
+:collapsedHeight 0
+:nonce 1683884518080}}
+:block/updated-at 1683916637388} 
+{:block/content "例如，假设你有一个包含电话号码的字符串，你想从该字符串中提取国家代码、区号和号码。你可以使用正则表达式来匹配这些部分，并使用捕获组来提取它们。以下是一个匹配美国电话号码的正则表达式的示例："
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "2a04c058-cc48-46ec-9cf5-56ea68c5dbd0"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "d6761c67-8ddd-4b38-8dec-50a1c644f176"} 
+{:block/content "这个正则表达式利用了两个捕获组。第一个捕获组匹配区号，使用了一个包含 `[0-9]{3}` 的子表达式来匹配三个数字。第二个捕获组匹配号码，使用了一个包含 `[0-9]{3}-[0-9]{4}` 的子表达式来匹配一个三位数的号码和一个四位数的号码。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "dcd22751-7978-4266-a1ad-fb5ea1bed349"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "cf61955b-f19a-4e2d-a8cf-04f4e7284744"} 
+{:block/content "当你在一个字符串上执行这个正则表达式时，它会匹配格式为 \"1-(XXX)-XXX-XXXX\" 的电话号码，并将区号和号码分别存储在第一个和第二个捕获组中。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "cf61955b-f19a-4e2d-a8cf-04f4e7284744"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "75e13126-4e29-4790-bea7-92392ed3d884"} 
+{:block/content "例如，如果你有一个电话号码字符串为 \"1-(650)-555-1234\"，你可以使用以下代码来提取区号和号码："
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "75e13126-4e29-4790-bea7-92392ed3d884"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "2a04c058-cc48-46ec-9cf5-56ea68c5dbd0"} 
+{:block/content "这个正则表达式利用了两个捕获组。第一个捕获组匹配区号，使用了一个包含 `[0-9]{3}` 的子表达式来匹配三个数字。第二个捕获组匹配号码，使用了一个包含 `[0-9]{3}-[0-9]{4}` 的子表达式来匹配一个三位数的号码和一个四位数的号码。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "645e09e7-9859-4e9d-a06b-4ac97983522d"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "5c60f985-ee62-46e7-9759-d34ddef7df17"} 
+{:block/content "当你在一个字符串上执行这个正则表达式时，它会匹配格式为 \"1-(XXX)-XXX-XXXX\" 的电话号码，并将区号和号码分别存储在第一个和第二个捕获组中。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "5c60f985-ee62-46e7-9759-d34ddef7df17"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "d21f9abd-5730-4d72-989f-d2b6eb1e59a3"} 
+{:block/content "例如，如果你有一个电话号码字符串为 \"1-(650)-555-1234\"，你可以使用以下代码来提取区号和号码："
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "d21f9abd-5730-4d72-989f-d2b6eb1e59a3"}
+:block/parent 
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"}
+:block/uuid #uuid "dcd22751-7978-4266-a1ad-fb5ea1bed349"})
+:pages (
+{:block/uuid #uuid "645e7b73-c15d-43ed-b34f-156bc3b885f2"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "645e7b73-c15d-43ed-b34f-156bc3b885f2"
+:name "2023年5月12号"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("2b773a90-f099-11ed-9d20-89367c429154" "70c71070-f099-11ed-9d20-89367c429154" "71c630f0-f099-11ed-9d20-89367c429154" "723ce790-f099-11ed-9d20-89367c429154" "72700580-f099-11ed-9d20-89367c429154" "915f26d0-f09c-11ed-8b66-95b0626d1b18" "766e42f0-f09e-11ed-8b66-95b0626d1b18" "884c5c20-f0a1-11ed-8b66-95b0626d1b18" "d6051c90-f0a6-11ed-81c6-77aa844dcae7" "3ce91180-f0a9-11ed-b8c5-bb1a5cd3bd79")}}
+:block/journal? false
+:block/updated-at 1683916637387
+:block/created-at 1683877101745
+:block/type "whiteboard"
+:block/name "2023年5月12号"
+:block/original-name "2023年5月12号"})}

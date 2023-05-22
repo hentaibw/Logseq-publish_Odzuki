@@ -112,14 +112,6 @@ textarea::selection {
   caret-color: var(--caret-color-dark);
 }
 
-/* Change the default size of image */
-  img {
-    border: 0px solid #ddd;
-    border-radius: 0px;
-    padding: 0px;
-    width: 800px;
-    }
-
 
 /* 工具栏的背景色 */
 :root {

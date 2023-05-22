@@ -1,0 +1,72 @@
+{:blocks (
+{:block/content "焊接的概念"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"}
+:block/parent 
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"}
+:block/properties 
+{}
+:block/uuid #uuid "64677082-8d51-4292-9fd1-cd34774e7261"} 
+{:block/content "焊接的特点"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64677082-8d51-4292-9fd1-cd34774e7261"}
+:block/parent 
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"}
+:block/properties 
+{}
+:block/uuid #uuid "6467708a-14a9-4670-8d07-f3423e37c3d6"} 
+{:block/content "焊接的优点与缺点"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6467708a-14a9-4670-8d07-f3423e37c3d6"}
+:block/parent 
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"}
+:block/properties 
+{}
+:block/uuid #uuid "6467709b-a9d2-49fd-8be7-cfbf2eb873df"} 
+{:block/content "熔焊的接头类型"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6467709b-a9d2-49fd-8be7-cfbf2eb873df"}
+:block/parent 
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"}
+:block/properties 
+{}
+:block/uuid #uuid "646770cd-d787-4cf9-9d9b-b5123927d159"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "646770cd-d787-4cf9-9d9b-b5123927d159"}
+:block/parent 
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"}
+:block/properties 
+{}
+:block/uuid #uuid "64677105-c560-4b2e-a84e-3d6554bb2706"} 
+{:block/content "熔焊接头组成"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64677105-c560-4b2e-a84e-3d6554bb2706"}
+:block/parent 
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"}
+:block/properties 
+{}
+:block/uuid #uuid "6467713b-e7c9-4a0a-8ef9-ea0bf3866779"})
+:pages (
+{:block/uuid #uuid "64677072-fb30-415e-8c3b-9187e8aee5f8"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64677072-fb30-415e-8c3b-9187e8aee5f8"
+:name "2023年5月19号"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ()}}
+:block/updated-at 1684503549934
+:block/created-at 1684500594083
+:block/type "whiteboard"
+:block/name "2023年5月19号"
+:block/original-name "2023年5月19号"})}
